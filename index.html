@@ -1,0 +1,198 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Homija — Product Showcase</title>
+  <meta name="description" content="Homija 产品展示页 — 简洁、响应式、易编辑。替换图片与文案即可上线。">
+  <style>
+    /* ========== 简洁响应式样式 ========== */
+    :root{
+      --bg:#f7f7f9; --card:#ffffff; --accent:#0b74de; --muted:#6b7280; --radius:12px;
+      --maxw:1100px;
+      font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial;
+    }
+    *{box-sizing:border-box}
+    body{margin:0;background:var(--bg);color:#111;font-size:16px;line-height:1.5}
+    .container{max-width:var(--maxw);margin:0 auto;padding:28px}
+
+    /* Header */
+    header{display:flex;align-items:center;justify-content:space-between;padding:18px 0}
+    .brand{display:flex;gap:12px;align-items:center}
+    .logo{width:56px;height:56px;border-radius:10px;background:linear-gradient(135deg,#0b74de,#4fc3f7);display:flex;align-items:center;justify-content:center;color:white;font-weight:700;font-size:18px}
+    nav a{margin-left:18px;color:var(--muted);text-decoration:none}
+
+    /* Hero */
+    .hero{display:flex;gap:28px;align-items:center;padding:28px;background:linear-gradient(180deg,rgba(11,116,222,0.06),transparent);border-radius:var(--radius)}
+    .hero-left{flex:1}
+    .kicker{color:var(--accent);font-weight:600;margin-bottom:8px}
+    h1{margin:0 0 12px;font-size:28px}
+    p.lead{margin:0;color:var(--muted)}
+    .cta{display:inline-block;margin-top:16px;padding:10px 16px;border-radius:10px;background:var(--accent);color:#fff;text-decoration:none}
+    .hero-right{width:320px;flex-shrink:0}
+    .hero-image{width:100%;height:200px;background:#e6f2ff;border-radius:10px;display:flex;align-items:center;justify-content:center;color:var(--accent);font-weight:700}
+
+    /* Grid */
+    .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:18px;margin-top:24px}
+    .card{background:var(--card);border-radius:14px;padding:14px;box-shadow:0 6px 18px rgba(16,24,40,0.06);overflow:hidden}
+    .card img{width:100%;height:160px;object-fit:cover;border-radius:8px}
+    .card h3{margin:10px 0 6px;font-size:18px}
+    .price{font-weight:700;color:var(--accent)}
+    .muted{color:var(--muted);font-size:14px}
+    .btn{margin-top:10px;display:inline-block;padding:8px 12px;border-radius:10px;background:#0f1724;color:#fff;text-decoration:none}
+
+    /* Modal */
+    .modal{position:fixed;inset:0;background:rgba(0,0,0,0.5);display:none;align-items:center;justify-content:center;padding:24px}
+    .modal .sheet{background:#fff;border-radius:12px;max-width:900px;width:100%;max-height:90vh;overflow:auto;padding:18px}
+    .modal .sheet img{width:100%;height:360px;object-fit:cover;border-radius:8px}
+    .modal .close{position:absolute;right:22px;top:18px;background:#fff;border-radius:50%;width:36px;height:36px;display:flex;align-items:center;justify-content:center;cursor:pointer}
+
+    /* Footer */
+    footer{margin-top:36px;padding:18px 0;color:var(--muted);text-align:center}
+
+    /* small screens */
+    @media (max-width:640px){
+      h1{font-size:22px}
+      .hero{flex-direction:column}
+      .hero-right{width:100%}
+      .hero-image{height:180px}
+      .card img{height:140px}
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <div class="brand">
+        <div class="logo">HM</div>
+        <div>
+          <div style="font-weight:700">Homija</div>
+          <div style="font-size:13px;color:var(--muted)">Product Showcase</div>
+        </div>
+      </div>
+      <nav>
+        <a href="#products">Products</a>
+        <a href="#about">About</a>
+        <a href="#contact">Contact</a>
+      </nav>
+    </header>
+
+    <section class="hero">
+      <div class="hero-left">
+        <div class="kicker">New Collection</div>
+        <h1>精致 · 实用 · 优雅 — Homija 产品展示</h1>
+        <p class="lead">在这里展示你的明星产品。替换下面卡片的图片、标题、价格与描述即可。页面响应式、加载轻快、SEO 友好。</p>
+        <a class="cta" href="#products">查看产品</a>
+      </div>
+      <div class="hero-right">
+        <div class="hero-image">替换为品牌主图</div>
+      </div>
+    </section>
+
+    <section id="products">
+      <h2 style="margin-top:26px">Featured Products</h2>
+      <div class="grid" id="productGrid">
+
+        <!-- ====== 示例产品卡片（复制并替换内容） ====== -->
+        <article class="card" data-title="产品 A" data-price="$49" data-desc="简短的产品描述 A" data-img="/assets/product-a.jpg">
+          <img src="/assets/product-a.jpg" alt="产品 A">
+          <h3>产品 A</h3>
+          <div class="muted">短文案：轻巧耐用，适合家庭和办公。</div>
+          <div style="display:flex;justify-content:space-between;align-items:center;margin-top:10px">
+            <div class="price">$49</div>
+            <a class="btn" href="#" data-action="view">查看详情</a>
+          </div>
+        </article>
+
+        <article class="card" data-title="产品 B" data-price="$79" data-desc="简短的产品描述 B" data-img="/assets/product-b.jpg">
+          <img src="/assets/product-b.jpg" alt="产品 B">
+          <h3>产品 B</h3>
+          <div class="muted">短文案：设计简约，功能强大。</div>
+          <div style="display:flex;justify-content:space-between;align-items:center;margin-top:10px">
+            <div class="price">$79</div>
+            <a class="btn" href="#" data-action="view">查看详情</a>
+          </div>
+        </article>
+
+        <article class="card" data-title="产品 C" data-price="$129" data-desc="简短的产品描述 C" data-img="/assets/product-c.jpg">
+          <img src="/assets/product-c.jpg" alt="产品 C">
+          <h3>产品 C</h3>
+          <div class="muted">短文案：专业级别表现，适合商业场景。</div>
+          <div style="display:flex;justify-content:space-between;align-items:center;margin-top:10px">
+            <div class="price">$129</div>
+            <a class="btn" href="#" data-action="view">查看详情</a>
+          </div>
+        </article>
+
+        <!-- 复制上面 card 模板，添加更多产品 -->
+
+      </div>
+    </section>
+
+    <section id="about">
+      <h2 style="margin-top:28px">About Homija</h2>
+      <p class="muted">在这里写一段关于你品牌的简介，例如成立年份、设计理念、材料工艺、目标客户等。</p>
+    </section>
+
+    <section id="contact">
+      <h2 style="margin-top:18px">Contact</h2>
+      <p class="muted">邮箱：contact@yourdomain.com · 电话：+86 123 4567 890</p>
+    </section>
+
+    <footer>
+      © <span id="year"></span> Homija. All rights reserved.
+    </footer>
+  </div>
+
+  <!-- Modal for product detail -->
+  <div class="modal" id="modal">
+    <div class="sheet">
+      <div style="position:relative">
+        <div class="close" id="modalClose">✕</div>
+        <img id="modalImage" src="" alt="">
+      </div>
+      <h3 id="modalTitle" style="margin-top:12px"></h3>
+      <div id="modalPrice" style="font-weight:700;color:var(--accent)"></div>
+      <p id="modalDesc" class="muted" style="margin-top:8px"></p>
+    </div>
+  </div>
+
+  <script>
+    // 页面小脚本：替换年份，产品详情弹窗
+    document.getElementById('year').textContent = new Date().getFullYear();
+
+    function $(sel, ctx=document){return ctx.querySelector(sel)}
+    function $all(sel, ctx=document){return Array.from(ctx.querySelectorAll(sel))}
+
+    // 绑定查看详情按钮
+    $all('[data-action="view"]').forEach(btn=>{
+      btn.addEventListener('click', e=>{
+        e.preventDefault();
+        const card = btn.closest('.card');
+        const title = card.getAttribute('data-title');
+        const price = card.getAttribute('data-price');
+        const desc  = card.getAttribute('data-desc');
+        const img   = card.getAttribute('data-img');
+        $('#modalImage').src = img;
+        $('#modalTitle').textContent = title;
+        $('#modalPrice').textContent = price;
+        $('#modalDesc').textContent = desc;
+        $('#modal').style.display = 'flex';
+      })
+    })
+
+    $('#modalClose').addEventListener('click', ()=>{ $('#modal').style.display='none' })
+    $('#modal').addEventListener('click', (e)=>{ if(e.target.id==='modal') $('#modal').style.display='none' })
+
+    /* ===== 使用说明 =====
+      1) 替换 /assets/ 下的图片：
+         - 将你的产品图放入仓库的 /assets/ 目录（或改为你自己的图片链接）
+      2) 每个 <article class="card"> 上有这些属性：
+         data-title, data-price, data-desc, data-img
+         只需修改这些属性即可改变弹窗与显示内容
+      3) 要添加更多产品：复制一整段 <article class="card"> ... </article> 并替换内容
+      4) 若想用外部图片链接（例如图床），把 data-img 和 <img src=> 改为完整 URL
+    */
+  </script>
+</body>
+</html>
