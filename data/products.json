@@ -1,0 +1,425 @@
+{
+    "descriptions": {
+        "default_silicone": {
+            "Material": "100% food grade silicone, eco-friendly",
+            "Color": "Any Pantone colors are available, size customizable",
+            "Packing": "As required, usually PE bag / OPP bag / Color box",
+            "OEM/ODM": "Available",
+            "Origin": "Guangdong, China",
+            "Logo & Mold tooling": "1)Logo: Embossed, debossed, printing </br>2)Mold tooling cost: based on the exact artwork </br> 3)Mold tooling cost: based on te exact artwork",
+            "Sample": "1)Existing sample lead time: 2-3 days </br>2)Customized sample lead time: 7 days",
+            "Production": "15 days after sample confirmed",
+            "Payment & Shipping Terms": "1)Port: Shenzhen </br>2) Payment terms: L/C or T/T(30% deposit, 70% against B/L copy) </br>3) Shipping terms: FOB, CIF, DDP, DDU"
+        }
+    },
+    "products": [
+        {   "id": "kitchen001",
+            "category": "Kitchen",
+            "subcategory": "Set of Utensils",
+            "name": "KIT-HJ001 : 7 pcs set of silicone long handles",
+            "images": [
+                "images/Set-of-Utensils/KIT-HJ001-1.png",
+                "images/Set-of-Utensils/KIT-HJ001-2.png",
+                "images/Set-of-Utensils/KIT-HJ001-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "kitchen002",
+            "category": "Kitchen",
+            "subcategory": "Set of Utensils",
+            "name": "KIT-HJ002 : 6 pcs set of silicone kitchen utensils",
+            "images": [
+                "images/Set-of-Utensils/KIT-HJ002-1.png",
+                "images/Set-of-Utensils/KIT-HJ002-2.png",
+                "images/Set-of-Utensils/KIT-HJ002-3.png",
+                "images/Set-of-Utensils/KIT-HJ002-4.png",
+                "images/Set-of-Utensils/KIT-HJ002-5.png",
+                "images/Set-of-Utensils/KIT-HJ002-6.png",
+                "images/Set-of-Utensils/KIT-HJ002-7.png",
+                "images/Set-of-Utensils/KIT-HJ002-8.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "kitchen003",
+            "category": "Kitchen",
+            "subcategory": "Set of Utensils",
+            "name": "KIT-HJ003 : 9 pcs set of silicone kitchen utensils",
+            "images": [
+                "images/Set-of-Utensils/KIT-HJ003-1.png",
+                "images/Set-of-Utensils/KIT-HJ003-2.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "kitchen004",
+            "category": "Kitchen",
+            "subcategory": "Set of Utensils",
+            "name": "KIT-HJ004 : 8 pcs set of silicone kitchen utensils",
+            "images": [
+                "images/Set-of-Utensils/KIT-HJ004-1.png",
+                "images/Set-of-Utensils/KIT-HJ004-2.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "kitchen005",
+            "category": "Kitchen",
+            "subcategory": "Set of Utensils",
+            "name": "KIT-HJ005 : 5 pcs set of silicone kitchen utensils",
+            "images": [
+                "images/Set-of-Utensils/KIT-HJ005-1.png",
+                "images/Set-of-Utensils/KIT-HJ005-2.png",
+                "images/Set-of-Utensils/KIT-HJ005-3.png",
+                "images/Set-of-Utensils/KIT-HJ005-4.png",
+                "images/Set-of-Utensils/KIT-HJ005-5.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "kitchen006",
+            "category": "Kitchen",
+            "subcategory": "Set of Utensils",
+            "name": "KIT-HJ006 : 10 pcs set of V shape silicone kitchen utensils",
+            "images": [
+                "images/Set-of-Utensils/KIT-HJ006-2.png",
+                "images/Set-of-Utensils/KIT-HJ006-1.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "kitchen007",
+            "category": "Kitchen",
+            "subcategory": "Set of Utensils",
+            "name": "KIT-HJ007 : 5 pcs set of V shape silicone kitchen utensils",
+            "images": [
+                "images/Set-of-Utensils/KIT-HJ007.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "kitchen008",
+            "category": "Kitchen",
+            "subcategory": "Set of Utensils",
+            "name": "KIT-HJ008 : 13 pcs set of silicone kitchen utensils",
+            "images": [
+                "images/Set-of-Utensils/KIT-HJ008.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "kitchen009",
+            "category": "Kitchen",
+            "subcategory": "Set of Utensils",
+            "name": "KIT-HJ009 : 10 pcs set of silicone & Stainless steel kitchen utensils",
+            "images": [
+                "images/Set-of-Utensils/KIT-HJ009.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "kitchen010",
+            "category": "Kitchen",
+            "subcategory": "Set of Utensils",
+            "name": "KIT-HJ010 : 13 pcs set of silicone kitchen utensils with PP handle",
+            "images": [
+                "images/Set-of-Utensils/KIT-HJ010.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "kitchen011",
+            "category": "Kitchen",
+            "subcategory": "Set of Utensils",
+            "name": "KIT-HJ011 : 11 pcs set of wood grain silicone kitchen utensils",
+            "images": [
+                "images/Set-of-Utensils/KIT-HJ011.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "kitchen012",
+            "category": "Kitchen",
+            "subcategory": "Set of Utensils",
+            "name": "KIT-HJ012 : 11 pcs set of black with color point silicone kitchen utensils",
+            "images": [
+                "images/Set-of-Utensils/KIT-HJ012.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "kitchen013",
+            "category": "Kitchen",
+            "subcategory": "Set of Utensils",
+            "name": "KIT-HJ013 : 14 pcs set of silicone kitchen utensils",
+            "images": [
+                "images/Set-of-Utensils/KIT-HJ013.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "kitchen014",
+            "category": "Kitchen",
+            "subcategory": "Set of Utensils",
+            "name": "KIT-HJ014 : 9 pcs set of silicone kitchen utensils with PP handle",
+            "images": [
+                "images/Set-of-Utensils/KIT-HJ014.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "kitchen015",
+            "category": "Kitchen",
+            "subcategory": "Set of Utensils",
+            "name": "KIT-HJ015 : 7 pcs set of silicone & beech handle kitchen utensils",
+            "images": [
+                "images/Set-of-Utensils/KIT-HJ015.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "kitchen016",
+            "category": "Kitchen",
+            "subcategory": "Set of Utensils",
+            "name": "KIT-HJ016 : 7 pcs set of silicone & Stainless steel handle kitchen utensils",
+            "images": [
+                "images/Set-of-Utensils/KIT-HJ016.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "kitchen017",
+            "category": "Kitchen",
+            "subcategory": "Set of Utensils",
+            "name": "KIT-HJ017 : 6 pcs set of brown green silicone kitchen utensils",
+            "images": [
+                "images/Set-of-Utensils/KIT-HJ017.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "kitchen018",
+            "category": "Kitchen",
+            "subcategory": "Set of Utensils",
+            "name": "KIT-HJ018 : 7 pcs set of non-sick dark blue silicone kitchen utensils",
+            "images": [
+                "images/Set-of-Utensils/KIT-HJ018.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "kitchen019",
+            "category": "Kitchen",
+            "subcategory": "Set of Utensils",
+            "name": "KIT-HJ019 : 13 pcs set of silicone kitchen utensils with PP handle",
+            "images": [
+                "images/Set-of-Utensils/KIT-HJ019-11.png",
+                "images/Set-of-Utensils/KIT-HJ019-1.png",
+                "images/Set-of-Utensils/KIT-HJ019-2.png",
+                "images/Set-of-Utensils/KIT-HJ019-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "kitchen020",
+            "category": "Kitchen",
+            "subcategory": "Set of Utensils",
+            "name": "KIT-HJ020 : 8 pcs set of blue TPR handle silicone kitchen utensils",
+            "images": [
+                "images/Set-of-Utensils/KIT-HJ020.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "kitchen021",
+            "category": "Kitchen",
+            "subcategory": "Set of Utensils",
+            "name": "KIT-HJ021 : 8 pcs set of red PP handle silicone kitchen utensils",
+            "images": [
+                "images/Set-of-Utensils/KIT-HJ021.png",
+                "images/Set-of-Utensils/KIT-HJ021-1.png",
+                "images/Set-of-Utensils/KIT-HJ021-2.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "kitchen022",
+            "category": "Kitchen",
+            "subcategory": "Set of Utensils",
+            "name": "KIT-HJ022 : 7 pcs set of PP +ABS handle silicone kitchen utensils",
+            "images": [
+                "images/Set-of-Utensils/KIT-HJ022.png",
+                "images/Set-of-Utensils/KIT-HJ022-1.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "kitchen023",
+            "category": "Kitchen",
+            "subcategory": "Set of Utensils",
+            "name": "KIT-HJ023 : 13 pcs set of silicone kitchen utensils with wood handle",
+            "images": [
+                "images/Set-of-Utensils/KIT-HJ023.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "kitchen024",
+            "category": "Kitchen",
+            "subcategory": "Set of Utensils",
+            "name": "KIT-HJ024 : 13 pcs set of wood handle silicone kitchen utensils",
+            "images": [
+                "images/Set-of-Utensils/KIT-HJ024.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "kitchen025",
+            "category": "Kitchen",
+            "subcategory": "Set of Utensils",
+            "name": "KIT-HJ025 : 11 pcs set of wood handle silicone kitchen utensils",
+            "images": [
+                "images/Set-of-Utensils/KIT-HJ025.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "kitchen026",
+            "category": "Kitchen",
+            "subcategory": "Set of Utensils",
+            "name": "KIT-HJ026 : 16 pcs set of silicone kitchen utensils with wood handle",
+            "images": [
+                "images/Set-of-Utensils/KIT-HJ026-1.png",
+                "images/Set-of-Utensils/KIT-HJ026-2.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "kitchen027",
+            "category": "Kitchen",
+            "subcategory": "Set of Utensils",
+            "name": "KIT-HJ027 : 13 pcs set of flat piece of wood handle silicone kitchen utensils",
+            "images": [
+                "images/Set-of-Utensils/KIT-HJ027.png",
+                "images/Set-of-Utensils/KIT-HJ027.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "kitchen028",
+            "category": "Kitchen",
+            "subcategory": "Set of Utensils",
+            "name": "KIT-HJ028 : 11 pcs set of flat piece of pp handle silicone kitchen utensils",
+            "images": [
+                "images/Set-of-Utensils/KIT-HJ028.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "kitchen029",
+            "category": "Kitchen",
+            "subcategory": "Set of Utensils",
+            "name": "KIT-HJ029 : 13 pcs set of stainless steel ring silicone kitchen utensils with wood handle",
+            "images": [
+                "images/Set-of-Utensils/KIT-HJ029.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "kitchen030",
+            "category": "Kitchen",
+            "subcategory": "Set of Utensils",
+            "name": "KIT-HJ030 : 13 pcs set of wood handle silicone kitchen utensils",
+            "images": [
+                "images/Set-of-Utensils/KIT-HJ030.png",
+                "images/Set-of-Utensils/KIT-HJ030-1.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "kitchen031",
+            "category": "Kitchen",
+            "subcategory": "Set of Utensils",
+            "name": "KIT-HJ031 : 4 pcs set of pp handle silicone kitchen utensils",
+            "images": [
+                "images/Set-of-Utensils/KIT-HJ031.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "kitchen032",
+            "category": "Kitchen",
+            "subcategory": "Set of Utensils",
+            "name": "KIT-HJ032 : 4 pcs set of wood handle silicone kitchen utensils",
+            "images": [
+                "images/Set-of-Utensils/KIT-HJ032.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "kitchen033",
+            "category": "Kitchen",
+            "subcategory": "Set of Utensils",
+            "name": "KIT-HJ033 : 13 pcs set of stainless steel ring silicone kitchen utensils with wood handle",
+            "images": [
+                "images/Set-of-Utensils/KIT-HJ033.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "kitchen034",
+            "category": "Kitchen",
+            "subcategory": "Set of Utensils",
+            "name": "KIT-HJ034 : 13 pcs set of stainless steel handle silicone kitchen utensils",
+            "images": [
+                "images/Set-of-Utensils/KIT-HJ034-1.png",
+                "images/Set-of-Utensils/KIT-HJ034-2.png",
+                "images/Set-of-Utensils/KIT-HJ034-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "kitchen035",
+            "category": "Kitchen",
+            "subcategory": "Set of Utensils",
+            "name": "KIT-HJ035 : 13 pcs set of wood handle silicone kitchen utensils",
+            "images": [
+                "images/Set-of-Utensils/KIT-HJ035.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "kitchen036",
+            "category": "Kitchen",
+            "subcategory": "Set of Utensils",
+            "name": "KIT-HJ036 : 7 pcs set of wood handle silicone kitchen utensils",
+            "images": [
+                "images/Set-of-Utensils/KIT-HJ036.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "kitchen037",
+            "category": "Kitchen",
+            "subcategory": "Set of Utensils",
+            "name": "KIT-HJ037 : 8 pcs set of wood handle silicone kitchen utensils",
+            "images": [
+                "images/Set-of-Utensils/KIT-HJ037.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "kitchen038",
+            "category": "Kitchen",
+            "subcategory": "Set of Utensils",
+            "name": "KIT-HJ038 : 9 pcs set of wood handle silicone kitchen utensils",
+            "images": [
+                "images/Set-of-Utensils/KIT-HJ038.png",
+                "images/Set-of-Utensils/KIT-HJ038-1.png",
+                "images/Set-of-Utensils/KIT-HJ038-2.png",
+                "images/Set-of-Utensils/KIT-HJ038-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "kitchen039",
+            "category": "Kitchen",
+            "subcategory": "Set of Utensils",
+            "name": "KIT-HJ039 : 11 pcs set of 430 stainless steel and nylon inside silicone kitchen utensils",
+            "images": [
+                "images/Set-of-Utensils/KIT-HJ039.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "kitchen040",
+            "category": "Kitchen",
+            "subcategory": "Set of Utensils",
+            "name": "KIT-HJ040 : 13 pcs set of 430 stainless steel handle silicone kitchen utensils",
+            "images": [
+                "images/Set-of-Utensils/KIT-HJ040.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "kitchen041",
+            "category": "Kitchen",
+            "subcategory": "Set of Utensils",
+            "name": "KIT-HJ041 : 11 pcs set of silicone kitchen utensils with spring steel",
+            "images": [
+                "images/Set-of-Utensils/KIT-HJ041.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "kitchen042",
+            "category": "Kitchen",
+            "subcategory": "Set of Utensils",
+            "name": "KIT-HJ042 : 11 pcs set of silicone kitchen utensils with spring steel, different handle, thin one",
+            "images": [
+                "images/Set-of-Utensils/KIT-HJ042.png"
+            ],
+            "description_ref": "default_silicone"
+        }
+    ]
+}
