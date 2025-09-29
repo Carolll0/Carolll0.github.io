@@ -143,7 +143,13 @@
 							<li><a href="#" data-category="Kitchen" data-sub="cleaning">Cleaning</a></li>
 						</ul>
 					</li>
-					<li><a href="#" data-category="ice-tray">Ice Tray</a></li>
+					<li><a href="#" data-category="Ice Mold">Ice Mold</a>
+						<ul>
+							<li><a href="#" data-category="Ice Mold" data-sub="Basic-shaped Ice">Basic-shaped</a></li>
+							<li><a href="#" data-category="Ice Mold" data-sub="Irregular-shaped Ice">Irregular-shaped</a></li>
+							<li><a href="#" data-category="Ice Mold" data-sub="popsicle mold">Popsicle Mold</a></li>
+						</ul>
+					</li>				
 					<li><a href="#" data-category="baking">Baking</a></li>
 					<li><a href="#" data-category="baby">Baby</a></li>
 					<li><a href="#" data-category="pet">Pet</a></li>
@@ -274,38 +280,38 @@
 				});
 
 			// 页面加载后检查 URL 参数
-document.addEventListener("DOMContentLoaded", () => {
-  try {
-    const urlParams = new URLSearchParams(window.location.search);
-    const cat = urlParams.get("category");
-    const sub = urlParams.get("sub");
+			document.addEventListener("DOMContentLoaded", () => {
+				try {
+					const urlParams = new URLSearchParams(window.location.search);
+					const cat = urlParams.get("category");
+					const sub = urlParams.get("sub");
 
-    if (cat) {
-      // 不做 toLowerCase，直接保持原样
-      currentCategory = cat;
-      currentSubcategory = sub ? sub : null;
+					if (cat) {
+						// 不做 toLowerCase，直接保持原样
+						currentCategory = cat;
+						currentSubcategory = sub ? sub : null;
 
-      // 如果 renderProducts 可用，就执行
-      if (typeof renderProducts === "function") {
-        renderProducts(1);
-      }
+						// 如果 renderProducts 可用，就执行
+						if (typeof renderProducts === "function") {
+							renderProducts(1);
+						}
 
-      // 高亮左侧菜单
-      document.querySelectorAll(".sidebar11 a").forEach(link => {
-        if (
-          link.dataset.category === currentCategory &&
-          (!currentSubcategory || link.dataset.sub === currentSubcategory)
-        ) {
-          link.classList.add("active");
-        } else {
-          link.classList.remove("active");
-        }
-      });
-    }
-  } catch (err) {
-    console.error("URL 参数解析出错:", err);
-  }
-});
+						// 高亮左侧菜单
+						document.querySelectorAll(".sidebar11 a").forEach(link => {
+							if (
+								link.dataset.category === currentCategory &&
+								(!currentSubcategory || link.dataset.sub === currentSubcategory)
+							) {
+								link.classList.add("active");
+							} else {
+								link.classList.remove("active");
+							}
+						});
+					}
+				} catch (err) {
+					console.error("URL 参数解析出错:", err);
+				}
+			});
 		</script>
 
 		<div id="fh5co-started"
