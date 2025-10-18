@@ -3480,6 +3480,1752 @@
                 "images/BK-HJ/BK-HJ115-3.png"
             ],
             "description_ref": "default_silicone"
-        }
+        },
+
+
+
+
+
+
+        {   "id": "PET-BR001",
+            "category": "Pet",
+            "subcategory": "Pet Brush & Toy",
+            "name": "PET-HJ001 : The cat moves the itch silicone board",
+            "images": [
+                "images/PET-HJ/PET-HJ001-1.png",
+                "images/PET-HJ/PET-HJ001-2.png",
+                "images/PET-HJ/PET-HJ001-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-BR002",
+            "category": "Pet",
+            "subcategory": "Pet Brush & Toy",
+            "name": "PET-HJ002 : Silicone foot wash cup for puppies",
+            "images": [
+                "images/PET-HJ/PET-HJ002-1.png",
+                "images/PET-HJ/PET-HJ002-2.png",
+                "images/PET-HJ/PET-HJ002-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-BR003",
+            "category": "Pet",
+            "subcategory": "Pet Brush & Toy",
+            "name": "PET-HJ003 : Foot wash cups for dogs in three sizes",
+            "images": [
+                "images/PET-HJ/PET-HJ003-1.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-BR004",
+            "category": "Pet",
+            "subcategory": "Pet Brush & Toy",
+            "name": "PET-HJ004 : Massager foot Silicone washer",
+            "images": [
+                "images/PET-HJ/PET-HJ004-1.png",
+                "images/PET-HJ/PET-HJ004-2.png",
+                "images/PET-HJ/PET-HJ004-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-BR005",
+            "category": "Pet",
+            "subcategory": "Pet Brush & Toy",
+            "name": "PET-HJ005 : Dog foot washing cup in three colors",
+            "images": [
+                "images/PET-HJ/PET-HJ005-1.png",
+                "images/PET-HJ/PET-HJ005-2.png",
+                "images/PET-HJ/PET-HJ005-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-BR006",
+            "category": "Pet",
+            "subcategory": "Pet Brush & Toy",
+            "name": "PET-HJ006 : Puppy clean silicone foot cup",
+            "images": [
+                "images/PET-HJ/PET-HJ006-1.png",
+                "images/PET-HJ/PET-HJ006-2.png",
+                "images/PET-HJ/PET-HJ006-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-BR007",
+            "category": "Pet",
+            "subcategory": "Pet Brush & Toy",
+            "name": "PET-HJ007 : Soft massage foot silicone cup",
+            "images": [
+                "images/PET-HJ/PET-HJ007-1.png",
+                "images/PET-HJ/PET-HJ007-2.png",
+                "images/PET-HJ/PET-HJ007-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-BR008",
+            "category": "Pet",
+            "subcategory": "Pet Brush & Toy",
+            "name": "PET-HJ008 : New silicone foot wash cup",
+            "images": [
+                "images/PET-HJ/PET-HJ008-1.png",
+                "images/PET-HJ/PET-HJ008-2.png",
+                "images/PET-HJ/PET-HJ008-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-BR009",
+            "category": "Pet",
+            "subcategory": "Pet Brush & Toy",
+            "name": "PET-HJ009 : Automatic foot silicone wash cup for dogs and cats",
+            "images": [
+                "images/PET-HJ/PET-HJ009-1.png",
+                "images/PET-HJ/PET-HJ009-2.png",
+                "images/PET-HJ/PET-HJ009-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-BR010",
+            "category": "Pet",
+            "subcategory": "Pet Brush & Toy",
+            "name": "PET-HJ010 : Pet foot wash silicone cup",
+            "images": [
+                "images/PET-HJ/PET-HJ010-1.png",
+                "images/PET-HJ/PET-HJ010-2.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-BR011",
+            "category": "Pet",
+            "subcategory": "Pet Brush & Toy",
+            "name": "PET-HJ011 : Polygon pet cleaning silicone brush",
+            "images": [
+                "images/PET-HJ/PET-HJ011-1.png",
+                "images/PET-HJ/PET-HJ011-2.png",
+                "images/PET-HJ/PET-HJ011-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-BR012",
+            "category": "Pet",
+            "subcategory": "Pet Brush & Toy",
+            "name": "PET-HJ012 : Multi-purpose pet silicone gloves",
+            "images": [
+                "images/PET-HJ/PET-HJ012-1.png",
+                "images/PET-HJ/PET-HJ012-2.png",
+                "images/PET-HJ/PET-HJ012-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-BR013",
+            "category": "Pet",
+            "subcategory": "Pet Brush & Toy",
+            "name": "PET-HJ013 : Bath massage silicone brush",
+            "images": [
+                "images/PET-HJ/PET-HJ013-1.png",
+                "images/PET-HJ/PET-HJ013-2.png",
+                "images/PET-HJ/PET-HJ013-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-BR014",
+            "category": "Pet",
+            "subcategory": "Pet Brush & Toy",
+            "name": "PET-HJ014 : Oet bath silicone gloves",
+            "images": [
+                "images/PET-HJ/PET-HJ014-1.png",
+                "images/PET-HJ/PET-HJ014-2.png",
+                "images/PET-HJ/PET-HJ014-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-BR015",
+            "category": "Pet",
+            "subcategory": "Pet Brush & Toy",
+            "name": "PET-HJ015 : Cat finger cover tooth silicone brush",
+            "images": [
+                "images/PET-HJ/PET-HJ015-1.png",
+                "images/PET-HJ/PET-HJ015-2.png",
+                "images/PET-HJ/PET-HJ015-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-BR016",
+            "category": "Pet",
+            "subcategory": "Pet Brush & Toy",
+            "name": "PET-HJ016 : Silicone pet toothbrush",
+            "images": [
+                "images/PET-HJ/PET-HJ016-1.png",
+                "images/PET-HJ/PET-HJ016-2.png",
+                "images/PET-HJ/PET-HJ016-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-BR017",
+            "category": "Pet",
+            "subcategory": "Pet Brush & Toy",
+            "name": "PET-HJ017 : Bath massage silicone brush",
+            "images": [
+                "images/PET-HJ/PET-HJ017-1.png",
+                "images/PET-HJ/PET-HJ017-2.png",
+                "images/PET-HJ/PET-HJ017-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-BR018",
+            "category": "Pet",
+            "subcategory": "Pet Brush & Toy",
+            "name": "PET-HJ018 : Long handle bath silicone brush",
+            "images": [
+                "images/PET-HJ/PET-HJ018-1.png",
+                "images/PET-HJ/PET-HJ018-2.png",
+                "images/PET-HJ/PET-HJ018-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-BR019",
+            "category": "Pet",
+            "subcategory": "Pet Brush & Toy",
+            "name": "PET-HJ019 : Rolled cat silicone gloves",
+            "images": [
+                "images/PET-HJ/PET-HJ019-1.png",
+                "images/PET-HJ/PET-HJ019-2.png",
+                "images/PET-HJ/PET-HJ019-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-BR020",
+            "category": "Pet",
+            "subcategory": "Pet Brush & Toy",
+            "name": "PET-HJ020 : Custom Dog Dental care silicone tooth brush",
+            "images": [
+                "images/PET-HJ/PET-HJ020-1.png",
+                "images/PET-HJ/PET-HJ020-2.png",
+                "images/PET-HJ/PET-HJ020-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-BR021",
+            "category": "Pet",
+            "subcategory": "Pet Brush & Toy",
+            "name": "PET-HJ021 : Massage Dog claw silicone cup",
+            "images": [
+                "images/PET-HJ/PET-HJ021-1.png",
+                "images/PET-HJ/PET-HJ021-2.png",
+                "images/PET-HJ/PET-HJ021-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-BR022",
+            "category": "Pet",
+            "subcategory": "Pet Brush & Toy",
+            "name": "PET-HJ022 : Bath massage pet silicone gloves",
+            "images": [
+                "images/PET-HJ/PET-HJ022-1.png",
+                "images/PET-HJ/PET-HJ022-2.png",
+                "images/PET-HJ/PET-HJ022-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-BR023",
+            "category": "Pet",
+            "subcategory": "Pet Brush & Toy",
+            "name": "PET-HJ023 : Massage pet silicone comb",
+            "images": [
+                "images/PET-HJ/PET-HJ023-1.png",
+                "images/PET-HJ/PET-HJ023-2.png",
+                "images/PET-HJ/PET-HJ023-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-BR024",
+            "category": "Pet",
+            "subcategory": "Pet Brush & Toy",
+            "name": "PET-HJ024 : Hollow dog and cat hair silicone remover",
+            "images": [
+                "images/PET-HJ/PET-HJ024-1.png",
+                "images/PET-HJ/PET-HJ024-2.png",
+                "images/PET-HJ/PET-HJ024-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-BR025",
+            "category": "Pet",
+            "subcategory": "Pet Brush & Toy",
+            "name": "PET-HJ025 : Massage bath pet hair silicone brush",
+            "images": [
+                "images/PET-HJ/PET-HJ025-1.png",
+                "images/PET-HJ/PET-HJ025-2.png",
+                "images/PET-HJ/PET-HJ025-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-BR026",
+            "category": "Pet",
+            "subcategory": "Pet Brush & Toy",
+            "name": "PET-HJ026 : Cleaner dog paw washer silicone cup",
+            "images": [
+                "images/PET-HJ/PET-HJ026-1.png",
+                "images/PET-HJ/PET-HJ026-2.png",
+                "images/PET-HJ/PET-HJ026-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-BR027",
+            "category": "Pet",
+            "subcategory": "Pet Brush & Toy",
+            "name": "PET-HJ027 : Dog massage silicone brush",
+            "images": [
+                "images/PET-HJ/PET-HJ027-1.png",
+                "images/PET-HJ/PET-HJ027-2.png",
+                "images/PET-HJ/PET-HJ027-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-BR028",
+            "category": "Pet",
+            "subcategory": "Pet Brush & Toy",
+            "name": "PET-HJ028 : Pet dog finger silicone toothbrush",
+            "images": [
+                "images/PET-HJ/PET-HJ028-1.png",
+                "images/PET-HJ/PET-HJ028-2.png",
+                "images/PET-HJ/PET-HJ028-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-BR029",
+            "category": "Pet",
+            "subcategory": "Pet Brush & Toy",
+            "name": "PET-HJ029 : Finger silicone toothbrush",
+            "images": [
+                "images/PET-HJ/PET-HJ029-1.png",
+                "images/PET-HJ/PET-HJ029-2.png",
+                "images/PET-HJ/PET-HJ029-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-BR030",
+            "category": "Pet",
+            "subcategory": "Pet Brush & Toy",
+            "name": "PET-HJ030 : Pet silicone shampoo brush",
+            "images": [
+                "images/PET-HJ/PET-HJ030-1.png",
+                "images/PET-HJ/PET-HJ030-2.png",
+                "images/PET-HJ/PET-HJ030-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-BR031",
+            "category": "Pet",
+            "subcategory": "Pet Brush & Toy",
+            "name": "PET-HJ031 : Silicone comb for pet",
+            "images": [
+                "images/PET-HJ/PET-HJ031-1.png",
+                "images/PET-HJ/PET-HJ031-2.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-TO149",
+            "category": "Pet",
+            "subcategory": "Pet Brush & Toy",
+            "name": "PET-HJ149 : Dog training Pet silicone darts",
+            "images": [
+                "images/PET-HJ/PET-HJ149-1.png",
+                "images/PET-HJ/PET-HJ149-2.png",
+                "images/PET-HJ/PET-HJ149-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-TO150",
+            "category": "Pet",
+            "subcategory": "Pet Brush & Toy",
+            "name": "PET-HJ150 : Soft silicone frisbee for dogs",
+            "images": [
+                "images/PET-HJ/PET-HJ150-1.png",
+                "images/PET-HJ/PET-HJ150-2.png",
+                "images/PET-HJ/PET-HJ150-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-TO151",
+            "category": "Pet",
+            "subcategory": "Pet Brush & Toy",
+            "name": "PET-HJ151 : Soft silicone frisbee",
+            "images": [
+                "images/PET-HJ/PET-HJ151-1.png",
+                "images/PET-HJ/PET-HJ151-2.png",
+                "images/PET-HJ/PET-HJ151-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-TO152",
+            "category": "Pet",
+            "subcategory": "Pet Brush & Toy",
+            "name": "PET-HJ152 : Cleaning silicone toothbrush tools",
+            "images": [
+                "images/PET-HJ/PET-HJ152-1.png",
+                "images/PET-HJ/PET-HJ152-2.png",
+                "images/PET-HJ/PET-HJ152-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-TO153",
+            "category": "Pet",
+            "subcategory": "Pet Brush & Toy",
+            "name": "PET-HJ153 : Bone shaped silicone molars",
+            "images": [
+                "images/PET-HJ/PET-HJ153-1.png",
+                "images/PET-HJ/PET-HJ153-2.png",
+                "images/PET-HJ/PET-HJ153-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {  "id": "PET-TO154",
+            "category": "Pet",
+            "subcategory": "Pet Brush & Toy",
+            "name": "PET-HJ154 : Dog silicone molars",
+            "images": [
+                "images/PET-HJ/PET-HJ154-1.png",
+                "images/PET-HJ/PET-HJ154-2.png",
+                "images/PET-HJ/PET-HJ154-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {  "id": "PET-TO155",
+            "category": "Pet",
+            "subcategory": "Pet Brush & Toy",
+            "name": "PET-HJ155 : Cleaning silicone toothbrushes and molars",
+            "images": [
+                "images/PET-HJ/PET-HJ155-1.png",
+                "images/PET-HJ/PET-HJ155-2.png",
+                "images/PET-HJ/PET-HJ155-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-TO156",
+            "category": "Pet",
+            "subcategory": "Pet Brush & Toy",
+            "name": "PET-HJ156 : Corn shaped silicone molars",
+            "images": [
+                "images/PET-HJ/PET-HJ156-1.png",
+                "images/PET-HJ/PET-HJ156-2.png",
+                "images/PET-HJ/PET-HJ156-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-TO157",
+            "category": "Pet",
+            "subcategory": "Pet Brush & Toy",
+            "name": "PET-HJ157 : Silicone teeth brush and grinding stick",
+            "images": [
+                "images/PET-HJ/PET-HJ157-1.png",
+                "images/PET-HJ/PET-HJ157-2.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-TO158",
+            "category": "Pet",
+            "subcategory": "Pet Brush & Toy",
+            "name": "PET-HJ158 : Silicone dog frisbee",
+            "images": [
+                "images/PET-HJ/PET-HJ158-1.png",
+                "images/PET-HJ/PET-HJ158-2.png",
+                "images/PET-HJ/PET-HJ158-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-TO159",
+            "category": "Pet",
+            "subcategory": "Pet Brush & Toy",
+            "name": "PET-HJ159 : Silicone toothbrushing dog toothbrush",
+            "images": [
+                "images/PET-HJ/PET-HJ159-1.png",
+                "images/PET-HJ/PET-HJ159-2.png",
+                "images/PET-HJ/PET-HJ159-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-TO160",
+            "category": "Pet",
+            "subcategory": "Pet Brush & Toy",
+            "name": "PET-HJ160 : Pet silicone molars shaped like starfish",
+            "images": [
+                "images/PET-HJ/PET-HJ160-1.png",
+                "images/PET-HJ/PET-HJ160-2.png",
+                "images/PET-HJ/PET-HJ160-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-TO161",
+            "category": "Pet",
+            "subcategory": "Pet Brush & Toy",
+            "name": "PET-HJ161 : Suction silicone cup molar stick",
+            "images": [
+                "images/PET-HJ/PET-HJ161-1.png",
+                "images/PET-HJ/PET-HJ161-2.png",
+                "images/PET-HJ/PET-HJ161-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-TO162",
+            "category": "Pet",
+            "subcategory": "Pet Brush & Toy",
+            "name": "PET-HJ162 : Dog chew silicone toys teethbrush",
+            "images": [
+                "images/PET-HJ/PET-HJ162-1.png",
+                "images/PET-HJ/PET-HJ162-2.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-MA032",
+            "category": "Pet",
+            "subcategory": "Pet Mat",
+            "name": "PET-HJ032 : Round silicone pet placemat",
+            "images": [
+                "images/PET-HJ/PET-HJ032-1.png",
+                "images/PET-HJ/PET-HJ032-2.png",
+                "images/PET-HJ/PET-HJ032-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-MA033",
+            "category": "Pet",
+            "subcategory": "Pet Mat",
+            "name": "PET-HJ033 : Cloud shaped licking silicone mat",
+            "images": [
+                "images/PET-HJ/PET-HJ033-1.png",
+                "images/PET-HJ/PET-HJ033-2.png",
+                "images/PET-HJ/PET-HJ033-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-MA034",
+            "category": "Pet",
+            "subcategory": "Pet Mat",
+            "name": "PET-HJ034 : Silicone little animal feeder mat",
+            "images": [
+                "images/PET-HJ/PET-HJ034-1.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-MA035",
+            "category": "Pet",
+            "subcategory": "Pet Mat",
+            "name": "PET-HJ035 : Pet supplies slow food silicone mat",
+            "images": [
+                "images/PET-HJ/PET-HJ035-1.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-MA036",
+            "category": "Pet",
+            "subcategory": "Pet Mat",
+            "name": "PET-HJ036 : Heart shaped lick silicone mat",
+            "images": [
+                "images/PET-HJ/PET-HJ036-1.png",
+                "images/PET-HJ/PET-HJ036-2.png",
+                "images/PET-HJ/PET-HJ036-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-MA037",
+            "category": "Pet",
+            "subcategory": "Pet Mat",
+            "name": "PET-HJ037 : Multi-purpose cat and dog silicone feeding mat",
+            "images": [
+                "images/PET-HJ/PET-HJ037-1.png",
+                "images/PET-HJ/PET-HJ037-2.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-MA038",
+            "category": "Pet",
+            "subcategory": "Pet Mat",
+            "name": "PET-HJ038 : Bone shaped pet silicone mat",
+            "images": [
+                "images/PET-HJ/PET-HJ038-1.png",
+                "images/PET-HJ/PET-HJ038-2.png",
+                "images/PET-HJ/PET-HJ038-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-MA039",
+            "category": "Pet",
+            "subcategory": "Pet Mat",
+            "name": "PET-HJ039 : Pet silicone place mat with suction cup",
+            "images": [
+                "images/PET-HJ/PET-HJ039-1.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-MA040",
+            "category": "Pet",
+            "subcategory": "Pet Mat",
+            "name": "PET-HJ040 : Silicone pet folding bowl with silicone pad",
+            "images": [
+                "images/PET-HJ/PET-HJ040-1.png",
+                "images/PET-HJ/PET-HJ040-2.png",
+                "images/PET-HJ/PET-HJ040-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-MA041",
+            "category": "Pet",
+            "subcategory": "Pet Mat",
+            "name": "PET-HJ041 : Place silicone mat with stainless steel bowl",
+            "images": [
+                "images/PET-HJ/PET-HJ041-1.png",
+                "images/PET-HJ/PET-HJ041-2.png",
+                "images/PET-HJ/PET-HJ041-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-MA042",
+            "category": "Pet",
+            "subcategory": "Pet Mat",
+            "name": "PET-HJ042 : Silicone slow food pad slow food bowl",
+            "images": [
+                "images/PET-HJ/PET-HJ042-1.png",
+                "images/PET-HJ/PET-HJ042-2.png",
+                "images/PET-HJ/PET-HJ042-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-MA043",
+            "category": "Pet",
+            "subcategory": "Pet Mat",
+            "name": "PET-HJ043 : Dog cat claw silicone mat",
+            "images": [
+                "images/PET-HJ/PET-HJ043-1.png",
+                "images/PET-HJ/PET-HJ043-2.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-MA044",
+            "category": "Pet",
+            "subcategory": "Pet Mat",
+            "name": "PET-HJ044 : Food bowl silicone pet mat",
+            "images": [
+                "images/PET-HJ/PET-HJ044-1.png",
+                "images/PET-HJ/PET-HJ044-2.png",
+                "images/PET-HJ/PET-HJ044-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-MA045",
+            "category": "Pet",
+            "subcategory": "Pet Mat",
+            "name": "PET-HJ045 : New silicone place mats for pets",
+            "images": [
+                "images/PET-HJ/PET-HJ045-1.png",
+                "images/PET-HJ/PET-HJ045-2.png",
+                "images/PET-HJ/PET-HJ045-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-MA046",
+            "category": "Pet",
+            "subcategory": "Pet Mat",
+            "name": "PET-HJ046 : Small foot silicone place mat",
+            "images": [
+                "images/PET-HJ/PET-HJ046-1.png",
+                "images/PET-HJ/PET-HJ046-2.png",
+                "images/PET-HJ/PET-HJ046-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-MA047",
+            "category": "Pet",
+            "subcategory": "Pet Mat",
+            "name": "PET-HJ047 : Square pet silicone place mat",
+            "images": [
+                "images/PET-HJ/PET-HJ047-1.png",
+                "images/PET-HJ/PET-HJ047-2.png",
+                "images/PET-HJ/PET-HJ047-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-MA048",
+            "category": "Pet",
+            "subcategory": "Pet Mat",
+            "name": "PET-HJ048 : Round pet place silicone mat",
+            "images": [
+                "images/PET-HJ/PET-HJ048-1.png",
+                "images/PET-HJ/PET-HJ048-2.png",
+                "images/PET-HJ/PET-HJ048-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-MA049",
+            "category": "Pet",
+            "subcategory": "Pet Mat",
+            "name": "PET-HJ049 : Pet silicone overflow proof place mat",
+            "images": [
+                "images/PET-HJ/PET-HJ049-1.png",
+                "images/PET-HJ/PET-HJ049-2.png",
+                "images/PET-HJ/PET-HJ049-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-MA050",
+            "category": "Pet",
+            "subcategory": "Pet Mat",
+            "name": "PET-HJ050 : Reusable silicone dog floor mats",
+            "images": [
+                "images/PET-HJ/PET-HJ050-1.png",
+                "images/PET-HJ/PET-HJ050-2.png",
+                "images/PET-HJ/PET-HJ050-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-MA051",
+            "category": "Pet",
+            "subcategory": "Pet Mat",
+            "name": "PET-HJ051 : Diamond silicone pet mat",
+            "images": [
+                "images/PET-HJ/PET-HJ051-1.png",
+                "images/PET-HJ/PET-HJ051-2.png",
+                "images/PET-HJ/PET-HJ051-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-MA052",
+            "category": "Pet",
+            "subcategory": "Pet Mat",
+            "name": "PET-HJ052 : Cats drop sand silicone mats",
+            "images": [
+                "images/PET-HJ/PET-HJ052-1.png",
+                "images/PET-HJ/PET-HJ052-2.png",
+                "images/PET-HJ/PET-HJ052-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-MA053",
+            "category": "Pet",
+            "subcategory": "Pet Mat",
+            "name": "PET-HJ053 : Square silicone pet place mat",
+            "images": [
+                "images/PET-HJ/PET-HJ053-1.png",
+                "images/PET-HJ/PET-HJ053-2.png",
+                "images/PET-HJ/PET-HJ053-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-MA054",
+            "category": "Pet",
+            "subcategory": "Pet Mat",
+            "name": "PET-HJ054 : Folding silicone cat bowl",
+            "images": [
+                "images/PET-HJ/PET-HJ054-1.png",
+                "images/PET-HJ/PET-HJ054-2.png",
+                "images/PET-HJ/PET-HJ054-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-MA055",
+            "category": "Pet",
+            "subcategory": "Pet Mat",
+            "name": "PET-HJ055 : Fish shaped slow food bowl",
+            "images": [
+                "images/PET-HJ/PET-HJ055-1.png",
+                "images/PET-HJ/PET-HJ055-2.png",
+                "images/PET-HJ/PET-HJ055-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-MA056",
+            "category": "Pet",
+            "subcategory": "Pet Mat",
+            "name": "PET-HJ056 : Bone shaped slow food silicone mat",
+            "images": [
+                "images/PET-HJ/PET-HJ056-1.png",
+                "images/PET-HJ/PET-HJ056-2.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-MA057",
+            "category": "Pet",
+            "subcategory": "Pet Mat",
+            "name": "PET-HJ057 : Hexagonal siliocne mat dog licks the mat",
+            "images": [
+                "images/PET-HJ/PET-HJ057-1.png",
+                "images/PET-HJ/PET-HJ057-2.png",
+                "images/PET-HJ/PET-HJ057-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-MA058",
+            "category": "Pet",
+            "subcategory": "Pet Mat",
+            "name": "PET-HJ058 : Fish shaped lick silicone mat",
+            "images": [
+                "images/PET-HJ/PET-HJ058-1.png",
+                "images/PET-HJ/PET-HJ058-2.png",
+                "images/PET-HJ/PET-HJ058-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-MA059",
+            "category": "Pet",
+            "subcategory": "Pet Mat",
+            "name": "PET-HJ059 : Cats and dogs lick foot silicone mat",
+            "images": [
+                "images/PET-HJ/PET-HJ059-1.png",
+                "images/PET-HJ/PET-HJ059-2.png",
+                "images/PET-HJ/PET-HJ059-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-MA060",
+            "category": "Pet",
+            "subcategory": "Pet Mat",
+            "name": "PET-HJ060 : Silicone slow food lick mat",
+            "images": [
+                "images/PET-HJ/PET-HJ060-1.png",
+                "images/PET-HJ/PET-HJ060-2.png",
+                "images/PET-HJ/PET-HJ060-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-MA061",
+            "category": "Pet",
+            "subcategory": "Pet Mat",
+            "name": "PET-HJ061 : Dog bathes and licks the silicone plate",
+            "images": [
+                "images/PET-HJ/PET-HJ061-1.png",
+                "images/PET-HJ/PET-HJ061-2.png",
+                "images/PET-HJ/PET-HJ061-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-MA062",
+            "category": "Pet",
+            "subcategory": "Pet Mat",
+            "name": "PET-HJ062 : Footprint pet silicone licking mat",
+            "images": [
+                "images/PET-HJ/PET-HJ062-1.png",
+                "images/PET-HJ/PET-HJ062-2.png",
+                "images/PET-HJ/PET-HJ062-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-MA063",
+            "category": "Pet",
+            "subcategory": "Pet Mat",
+            "name": "PET-HJ063 : Round slow licking silicone mat",
+            "images": [
+                "images/PET-HJ/PET-HJ063-1.png",
+                "images/PET-HJ/PET-HJ063-2.png",
+                "images/PET-HJ/PET-HJ063-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-MA064",
+            "category": "Pet",
+            "subcategory": "Pet Mat",
+            "name": "PET-HJ064 : Round pet slow silicone food plate",
+            "images": [
+                "images/PET-HJ/PET-HJ064-1.png",
+                "images/PET-HJ/PET-HJ064-2.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-MA065",
+            "category": "Pet",
+            "subcategory": "Pet Mat",
+            "name": "PET-HJ065 : Circular distraction silicone mat",
+            "images": [
+                "images/PET-HJ/PET-HJ065-1.png",
+                "images/PET-HJ/PET-HJ065-2.png",
+                "images/PET-HJ/PET-HJ065-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-MA066",
+            "category": "Pet",
+            "subcategory": "Pet Mat",
+            "name": "PET-HJ066 : Round slow food silicone quiet mat",
+            "images": [
+                "images/PET-HJ/PET-HJ066-1.png",
+                "images/PET-HJ/PET-HJ066-2.png",
+                "images/PET-HJ/PET-HJ066-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-MA067",
+            "category": "Pet",
+            "subcategory": "Pet Mat",
+            "name": "PET-HJ067 : Triangular slow food silicone mat",
+            "images": [
+                "images/PET-HJ/PET-HJ067-1.png",
+                "images/PET-HJ/PET-HJ067-2.png",
+                "images/PET-HJ/PET-HJ067-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-MA068",
+            "category": "Pet",
+            "subcategory": "Pet Mat",
+            "name": "PET-HJ068 : Dog slow food silicone mat",
+            "images": [
+                "images/PET-HJ/PET-HJ068-1.png",
+                "images/PET-HJ/PET-HJ068-2.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-MA069",
+            "category": "Pet",
+            "subcategory": "Pet Mat",
+            "name": "PET-HJ069 : Star distraction shower lick silicone mat",
+            "images": [
+                "images/PET-HJ/PET-HJ069-1.png",
+                "images/PET-HJ/PET-HJ069-2.png",
+                "images/PET-HJ/PET-HJ069-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-MA070",
+            "category": "Pet",
+            "subcategory": "Pet Mat",
+            "name": "PET-HJ070 : Bone style with suction silicone mat",
+            "images": [
+                "images/PET-HJ/PET-HJ070-1.png",
+                "images/PET-HJ/PET-HJ070-2.png",
+                "images/PET-HJ/PET-HJ070-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-MA071",
+            "category": "Pet",
+            "subcategory": "Pet Mat",
+            "name": "PET-HJ071 : Cross anti-choking food silicone mat",
+            "images": [
+                "images/PET-HJ/PET-HJ071-1.png",
+                "images/PET-HJ/PET-HJ071-2.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-MA072",
+            "category": "Pet",
+            "subcategory": "Pet Mat",
+            "name": "PET-HJ072 : Hexagonal slow food silicone plate",
+            "images": [
+                "images/PET-HJ/PET-HJ072-1.png",
+                "images/PET-HJ/PET-HJ072-2.png",
+                "images/PET-HJ/PET-HJ072-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-MA073",
+            "category": "Pet",
+            "subcategory": "Pet Mat",
+            "name": "PET-HJ073 : Dog licking pad poop shape",
+            "images": [
+                "images/PET-HJ/PET-HJ073-1.png",
+                "images/PET-HJ/PET-HJ073-2.png",
+                "images/PET-HJ/PET-HJ073-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-MA074",
+            "category": "Pet",
+            "subcategory": "Pet Mat",
+            "name": "PET-HJ074 : Silicone Dog grooming lick mat",
+            "images": [
+                "images/PET-HJ/PET-HJ074-1.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-MA075",
+            "category": "Pet",
+            "subcategory": "Pet Mat",
+            "name": "PET-HJ075 : Octagonal dog lick silicone mat",
+            "images": [
+                "images/PET-HJ/PET-HJ075-1.png",
+                "images/PET-HJ/PET-HJ075-2.png",
+                "images/PET-HJ/PET-HJ075-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-MA076",
+            "category": "Pet",
+            "subcategory": "Pet Mat",
+            "name": "PET-HJ076 : Slicone slow eating dog lick mat",
+            "images": [
+                "images/PET-HJ/PET-HJ076-1.png",
+                "images/PET-HJ/PET-HJ076-2.png",
+                "images/PET-HJ/PET-HJ076-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-MA077",
+            "category": "Pet",
+            "subcategory": "Pet Mat",
+            "name": "PET-HJ077 : Square pet lick silicone mat",
+            "images": [
+                "images/PET-HJ/PET-HJ077-1.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-MA078",
+            "category": "Pet",
+            "subcategory": "Pet Mat",
+            "name": "PET-HJ078 : Dolphin shaped pet dinner silicone mat",
+            "images": [
+                "images/PET-HJ/PET-HJ078-1.png",
+                "images/PET-HJ/PET-HJ078-2.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-MA079",
+            "category": "Pet",
+            "subcategory": "Pet Mat",
+            "name": "PET-HJ079 : Crab shaped licking silicone mat",
+            "images": [
+                "images/PET-HJ/PET-HJ079-1.png",
+                "images/PET-HJ/PET-HJ079-2.png",
+                "images/PET-HJ/PET-HJ079-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-MA080",
+            "category": "Pet",
+            "subcategory": "Pet Mat",
+            "name": "PET-HJ080 : Flower shaped lick silicone mat",
+            "images": [
+                "images/PET-HJ/PET-HJ080-1.png",
+                "images/PET-HJ/PET-HJ080-2.png",
+                "images/PET-HJ/PET-HJ080-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-MA081",
+            "category": "Pet",
+            "subcategory": "Pet Mat",
+            "name": "PET-HJ081 : Feeder sucking silicone mat",
+            "images": [
+                "images/PET-HJ/PET-HJ081-1.png",
+                "images/PET-HJ/PET-HJ081-2.png",
+                "images/PET-HJ/PET-HJ081-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-MA082",
+            "category": "Pet",
+            "subcategory": "Pet Mat",
+            "name": "PET-HJ082 : Fish shaped pet lick silicone mat",
+            "images": [
+                "images/PET-HJ/PET-HJ082-1.png",
+                "images/PET-HJ/PET-HJ082-2.png",
+                "images/PET-HJ/PET-HJ082-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-MA083",
+            "category": "Pet",
+            "subcategory": "Pet Mat",
+            "name": "PET-HJ083 : Round four-panel lick silicone mat",
+            "images": [
+                "images/PET-HJ/PET-HJ083-1.png",
+                "images/PET-HJ/PET-HJ083-2.png",
+                "images/PET-HJ/PET-HJ083-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-MA084",
+            "category": "Pet",
+            "subcategory": "Pet Mat",
+            "name": "PET-HJ084 : Pollka-dot lick silicone mat",
+            "images": [
+                "images/PET-HJ/PET-HJ084-1.png",
+                "images/PET-HJ/PET-HJ084-2.png",
+                "images/PET-HJ/PET-HJ084-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-MA085",
+            "category": "Pet",
+            "subcategory": "Pet Mat",
+            "name": "PET-HJ085 : Tumbler style slow food silicone bowl",
+            "images": [
+                "images/PET-HJ/PET-HJ085-1.png",
+                "images/PET-HJ/PET-HJ085-2.png",
+                "images/PET-HJ/PET-HJ085-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-MA086",
+            "category": "Pet",
+            "subcategory": "Pet Mat",
+            "name": "PET-HJ086 : Tumbler shaped silicone lick bowl",
+            "images": [
+                "images/PET-HJ/PET-HJ086-1.png",
+                "images/PET-HJ/PET-HJ086-2.png",
+                "images/PET-HJ/PET-HJ086-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-MA087",
+            "category": "Pet",
+            "subcategory": "Pet Mat",
+            "name": "PET-HJ087 : Rectangular slow food silicone mat",
+            "images": [
+                "images/PET-HJ/PET-HJ087-1.png",
+                "images/PET-HJ/PET-HJ087-2.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-MA088",
+            "category": "Pet",
+            "subcategory": "Pet Mat",
+            "name": "PET-HJ088 : Square choke silicone mat",
+            "images": [
+                "images/PET-HJ/PET-HJ088-1.png",
+                "images/PET-HJ/PET-HJ088-2.png",
+                "images/PET-HJ/PET-HJ088-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-MA089",
+            "category": "Pet",
+            "subcategory": "Pet Mat",
+            "name": "PET-HJ089 : 3-grid design silicone slow food lick mat",
+            "images": [
+                "images/PET-HJ/PET-HJ089-1.png",
+                "images/PET-HJ/PET-HJ089-2.png",
+                "images/PET-HJ/PET-HJ089-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-MA090",
+            "category": "Pet",
+            "subcategory": "Pet Mat",
+            "name": "PET-HJ090 : Bone shaped licking silicone mat",
+            "images": [
+                "images/PET-HJ/PET-HJ090-1.png",
+                "images/PET-HJ/PET-HJ090-2.png",
+                "images/PET-HJ/PET-HJ090-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-MA091",
+            "category": "Pet",
+            "subcategory": "Pet Mat",
+            "name": "PET-HJ091 : Footprint anti choking silicone lick mat",
+            "images": [
+                "images/PET-HJ/PET-HJ091-1.png",
+                "images/PET-HJ/PET-HJ091-2.png",
+                "images/PET-HJ/PET-HJ091-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-MA092",
+            "category": "Pet",
+            "subcategory": "Pet Mat",
+            "name": "PET-HJ092 : Cat claw silicone pet licking mat ",
+            "images": [
+                "images/PET-HJ/PET-HJ092-1.png",
+                "images/PET-HJ/PET-HJ092-2.png",
+                "images/PET-HJ/PET-HJ092-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-MA093",
+            "category": "Pet",
+            "subcategory": "Pet Mat",
+            "name": "PET-HJ093 : Irregular shape lick silicone mat",
+            "images": [
+                "images/PET-HJ/PET-HJ093-1.png",
+                "images/PET-HJ/PET-HJ093-2.png",
+                "images/PET-HJ/PET-HJ093-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-MA094",
+            "category": "Pet",
+            "subcategory": "Pet Mat",
+            "name": "PET-HJ094 : Crab shaped dog silicone licking mat",
+            "images": [
+                "images/PET-HJ/PET-HJ094-1.png",
+                "images/PET-HJ/PET-HJ094-2.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-MA095",
+            "category": "Pet",
+            "subcategory": "Pet Mat",
+            "name": "PET-HJ095 : Dogs feeding silicone mat with suction cups",
+            "images": [
+                "images/PET-HJ/PET-HJ095-1.png",
+                "images/PET-HJ/PET-HJ095-2.png",
+                "images/PET-HJ/PET-HJ095-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-MA096",
+            "category": "Pet",
+            "subcategory": "Pet Mat",
+            "name": "PET-HJ096 : Silicone slow eating dog licking mat",
+            "images": [
+                "images/PET-HJ/PET-HJ096-1.png",
+                "images/PET-HJ/PET-HJ096-2.png",
+                "images/PET-HJ/PET-HJ096-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-MA097",
+            "category": "Pet",
+            "subcategory": "Pet Mat",
+            "name": "PET-HJ097 : Cats dog easy silicone lick mat",
+            "images": [
+                "images/PET-HJ/PET-HJ097-1.png",
+                "images/PET-HJ/PET-HJ097-2.png",
+                "images/PET-HJ/PET-HJ097-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-MA098",
+            "category": "Pet",
+            "subcategory": "Pet Mat",
+            "name": "PET-HJ098 : Cat dog silicone lick mat",
+            "images": [
+                "images/PET-HJ/PET-HJ098-1.png",
+                "images/PET-HJ/PET-HJ098-2.png",
+                "images/PET-HJ/PET-HJ098-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-MA099",
+            "category": "Pet",
+            "subcategory": "Pet Mat",
+            "name": "PET-HJ099 : ROund dog and cat licking mat",
+            "images": [
+                "images/PET-HJ/PET-HJ099-1.png",
+                "images/PET-HJ/PET-HJ099-2.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-MA100",
+            "category": "Pet",
+            "subcategory": "Pet Mat",
+            "name": "PET-HJ100 : Distraction dog lick silicone mat with suction cups",
+            "images": [
+                "images/PET-HJ/PET-HJ100-1.png",
+                "images/PET-HJ/PET-HJ100-2.png",
+                "images/PET-HJ/PET-HJ100-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-MA101",
+            "category": "Pet",
+            "subcategory": "Pet Mat",
+            "name": "PET-HJ101 : Feeding plate lick silicone mat",
+            "images": [
+                "images/PET-HJ/PET-HJ101-1.png",
+                "images/PET-HJ/PET-HJ101-2.png",
+                "images/PET-HJ/PET-HJ101-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-MA102",
+            "category": "Pet",
+            "subcategory": "Pet Mat",
+            "name": "PET-HJ102 : Dog lick mat silicone with suction",
+            "images": [
+                "images/PET-HJ/PET-HJ102-1.png",
+                "images/PET-HJ/PET-HJ102-2.png",
+                "images/PET-HJ/PET-HJ102-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-MA103",
+            "category": "Pet",
+            "subcategory": "Pet Mat",
+            "name": "PET-HJ103 : Pet silicone lick mat",
+            "images": [
+                "images/PET-HJ/PET-HJ103-1.png",
+                "images/PET-HJ/PET-HJ103-2.png",
+                "images/PET-HJ/PET-HJ103-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-MA104",
+            "category": "Pet",
+            "subcategory": "Pet Mat",
+            "name": "PET-HJ104 : Pet silicone lick food mat",
+            "images": [
+                "images/PET-HJ/PET-HJ104-1.png",
+                "images/PET-HJ/PET-HJ104-2.png",
+                "images/PET-HJ/PET-HJ104-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-MA105",
+            "category": "Pet",
+            "subcategory": "Pet Mat",
+            "name": "PET-HJ105 : Dog slow food silicone mat",
+            "images": [
+                "images/PET-HJ/PET-HJ105-1.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-MA106",
+            "category": "Pet",
+            "subcategory": "Pet Mat",
+            "name": "PET-HJ106 : Dog head shaped pet lick silicone mat",
+            "images": [
+                "images/PET-HJ/PET-HJ106-1.png",
+                "images/PET-HJ/PET-HJ106-2.png",
+                "images/PET-HJ/PET-HJ106-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-MA107",
+            "category": "Pet",
+            "subcategory": "Pet Mat",
+            "name": "PET-HJ107 : silicone pet feeding training mat",
+            "images": [
+                "images/PET-HJ/PET-HJ107-1.png",
+                "images/PET-HJ/PET-HJ107-2.png",
+                "images/PET-HJ/PET-HJ107-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-MA108",
+            "category": "Pet",
+            "subcategory": "Pet Mat",
+            "name": "PET-HJ108 : Silicone placemat for dog and cat pet",
+            "images": [
+                "images/PET-HJ/PET-HJ108-1.png",
+                "images/PET-HJ/PET-HJ108-2.png",
+                "images/PET-HJ/PET-HJ108-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-MA109",
+            "category": "Pet",
+            "subcategory": "Pet Mat",
+            "name": "PET-HJ109 : Pet silicone mat with pellets",
+            "images": [
+                "images/PET-HJ/PET-HJ109-1.png",
+                "images/PET-HJ/PET-HJ109-2.png",
+                "images/PET-HJ/PET-HJ109-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-MA110",
+            "category": "Pet",
+            "subcategory": "Pet Mat",
+            "name": "PET-HJ110 : Suction sup pet silicone mat",
+            "images": [
+                "images/PET-HJ/PET-HJ110-1.png",
+                "images/PET-HJ/PET-HJ110-2.png",
+                "images/PET-HJ/PET-HJ110-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-MA111",
+            "category": "Pet",
+            "subcategory": "Pet Mat",
+            "name": "PET-HJ111 : Dog and cat food feeding mat",
+            "images": [
+                "images/PET-HJ/PET-HJ111-1.png",
+                "images/PET-HJ/PET-HJ111-2.png",
+                "images/PET-HJ/PET-HJ111-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-MA112",
+            "category": "Pet",
+            "subcategory": "Pet Mat",
+            "name": "PET-HJ112 : Silicone dog and cat bowl mat",
+            "images": [
+                "images/PET-HJ/PET-HJ112-1.png",
+                "images/PET-HJ/PET-HJ112-2.png",
+                "images/PET-HJ/PET-HJ112-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-Bowl113",
+            "category": "Pet",
+            "subcategory": "Pet Bowl",
+            "name": "PET-HJ113 : Pet water outdoor silicone bottle",
+            "images": [
+                "images/PET-HJ/PET-HJ113-1.png",
+                "images/PET-HJ/PET-HJ113-2.png",
+                "images/PET-HJ/PET-HJ113-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-Bowl114",
+            "category": "Pet",
+            "subcategory": "Pet Bowl",
+            "name": "PET-HJ114 : Cat outdoor pet folding silicone basin",
+            "images": [
+                "images/PET-HJ/PET-HJ114-1.png",
+                "images/PET-HJ/PET-HJ114-2.png",
+                "images/PET-HJ/PET-HJ114-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-Bowl115",
+            "category": "Pet",
+            "subcategory": "Pet Bowl",
+            "name": "PET-HJ115 : Pet cat place silicone mat bowl",
+            "images": [
+                "images/PET-HJ/PET-HJ115-1.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-Bowl116",
+            "category": "Pet",
+            "subcategory": "Pet Bowl",
+            "name": "PET-HJ116 : Slow food silicone bowl with suction cup",
+            "images": [
+                "images/PET-HJ/PET-HJ116-1.png",
+                "images/PET-HJ/PET-HJ116-2.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-Bowl117",
+            "category": "Pet",
+            "subcategory": "Pet Bowl",
+            "name": "PET-HJ117 : Portable folding silicone pet bowl",
+            "images": [
+                "images/PET-HJ/PET-HJ117-1.png",
+                "images/PET-HJ/PET-HJ117-2.png",
+                "images/PET-HJ/PET-HJ117-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-Bowl118",
+            "category": "Pet",
+            "subcategory": "Pet Bowl",
+            "name": "PET-HJ118 : Folding silicone bowl for dog",
+            "images": [
+                "images/PET-HJ/PET-HJ118-1.png",
+                "images/PET-HJ/PET-HJ118-2.png",
+                "images/PET-HJ/PET-HJ118-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-Bowl119",
+            "category": "Pet",
+            "subcategory": "Pet Bowl",
+            "name": "PET-HJ119 : Non-slip water silicone feeder for pet",
+            "images": [
+                "images/PET-HJ/PET-HJ119-1.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-Bowl120",
+            "category": "Pet",
+            "subcategory": "Pet Bowl",
+            "name": "PET-HJ120 : 26/22/18/14cm pet food bowl",
+            "images": [
+                "images/PET-HJ/PET-HJ120-1.png",
+                "images/PET-HJ/PET-HJ120-2.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-Bowl121",
+            "category": "Pet",
+            "subcategory": "Pet Bowl",
+            "name": "PET-HJ121 : Collapsible pet dog silicone bowl",
+            "images": [
+                "images/PET-HJ/PET-HJ121-1.png",
+                "images/PET-HJ/PET-HJ121-2.png",
+                "images/PET-HJ/PET-HJ121-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-Bowl122",
+            "category": "Pet",
+            "subcategory": "Pet Bowl",
+            "name": "PET-HJ122 : Portable silicone bowl",
+            "images": [
+                "images/PET-HJ/PET-HJ122-1.png",
+                "images/PET-HJ/PET-HJ122-2.png",
+                "images/PET-HJ/PET-HJ122-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-Bowl123",
+            "category": "Pet",
+            "subcategory": "Pet Bowl",
+            "name": "PET-HJ123 : Cat basin silicone food mat with bowl",
+            "images": [
+                "images/PET-HJ/PET-HJ123-1.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-Bowl124",
+            "category": "Pet",
+            "subcategory": "Pet Bowl",
+            "name": "PET-HJ124 : Silicone cereal bowl",
+            "images": [
+                "images/PET-HJ/PET-HJ124-1.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-Bowl125",
+            "category": "Pet",
+            "subcategory": "Pet Bowl",
+            "name": "PET-HJ125 : Protect cervical verterbra pet silicone bowl",
+            "images": [
+                "images/PET-HJ/PET-HJ125-1.png",
+                "images/PET-HJ/PET-HJ125-2.png",
+                "images/PET-HJ/PET-HJ125-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-Bowl126",
+            "category": "Pet",
+            "subcategory": "Pet Bowl",
+            "name": "PET-HJ126 : Dounble silicone dog bowl",
+            "images": [
+                "images/PET-HJ/PET-HJ126-1.png",
+                "images/PET-HJ/PET-HJ126-2.png",
+                "images/PET-HJ/PET-HJ126-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-Bowl127",
+            "category": "Pet",
+            "subcategory": "Pet Bowl",
+            "name": "PET-HJ127 : Travel pet silicone folding bowl",
+            "images": [
+                "images/PET-HJ/PET-HJ127-1.png",
+                "images/PET-HJ/PET-HJ127-2.png",
+                "images/PET-HJ/PET-HJ127-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-Bowl128",
+            "category": "Pet",
+            "subcategory": "Pet Bowl",
+            "name": "PET-HJ128 : Travel pet silicone bowl",
+            "images": [
+                "images/PET-HJ/PET-HJ128-1.png",
+                "images/PET-HJ/PET-HJ128-2.png",
+                "images/PET-HJ/PET-HJ128-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-Bowl129",
+            "category": "Pet",
+            "subcategory": "Pet Bowl",
+            "name": "PET-HJ129 : Pet drinking bowl",
+            "images": [
+                "images/PET-HJ/PET-HJ129-1.png",
+                "images/PET-HJ/PET-HJ129-2.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-Bowl130",
+            "category": "Pet",
+            "subcategory": "Pet Bowl",
+            "name": "PET-HJ130 : Wall-mounted dog bowl",
+            "images": [
+                "images/PET-HJ/PET-HJ130-1.png",
+                "images/PET-HJ/PET-HJ130-2.png",
+                "images/PET-HJ/PET-HJ130-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-Bowl131",
+            "category": "Pet",
+            "subcategory": "Pet Bowl",
+            "name": "PET-HJ131 : Silicone portable dog bowl",
+            "images": [
+                "images/PET-HJ/PET-HJ131-1.png",
+                "images/PET-HJ/PET-HJ131-2.png",
+                "images/PET-HJ/PET-HJ131-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-Bowl132",
+            "category": "Pet",
+            "subcategory": "Pet Bowl",
+            "name": "PET-HJ132 : Non-slip dog double silicone bowl",
+            "images": [
+                "images/PET-HJ/PET-HJ132-1.png",
+                "images/PET-HJ/PET-HJ132-2.png",
+                "images/PET-HJ/PET-HJ132-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-Bowl133",
+            "category": "Pet",
+            "subcategory": "Pet Bowl",
+            "name": "PET-HJ133 : Outdoor portable dog silicone bowl",
+            "images": [
+                "images/PET-HJ/PET-HJ133-1.png",
+                "images/PET-HJ/PET-HJ133-2.png",
+                "images/PET-HJ/PET-HJ133-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-Bowl134",
+            "category": "Pet",
+            "subcategory": "Pet Bowl",
+            "name": "PET-HJ134 : 600ml pet dog silicone bowl",
+            "images": [
+                "images/PET-HJ/PET-HJ134-1.png",
+                "images/PET-HJ/PET-HJ134-2.png",
+                "images/PET-HJ/PET-HJ134-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-Bowl135",
+            "category": "Pet",
+            "subcategory": "Pet Bowl",
+            "name": "PET-HJ135 : Silicone folding bowl",
+            "images": [
+                "images/PET-HJ/PET-HJ135-1.png",
+                "images/PET-HJ/PET-HJ135-2.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-Bowl136",
+            "category": "Pet",
+            "subcategory": "Pet Bowl",
+            "name": "PET-HJ136 : Silicone folding double bowl",
+            "images": [
+                "images/PET-HJ/PET-HJ136-1.png",
+                "images/PET-HJ/PET-HJ136-2.png",
+                "images/PET-HJ/PET-HJ136-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-Bowl137",
+            "category": "Pet",
+            "subcategory": "Pet Bowl",
+            "name": "PET-HJ137 : Prevent tipping silicone plates",
+            "images": [
+                "images/PET-HJ/PET-HJ137-1.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-Bowl138",
+            "category": "Pet",
+            "subcategory": "Pet Bowl",
+            "name": "PET-HJ138 : Silicone folding clip bowl",
+            "images": [
+                "images/PET-HJ/PET-HJ138-1.png",
+                "images/PET-HJ/PET-HJ138-2.png",
+                "images/PET-HJ/PET-HJ138-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-Bowl139",
+            "category": "Pet",
+            "subcategory": "Pet Bowl",
+            "name": "PET-HJ139 : Folding silicone bowl with suction cup",
+            "images": [
+                "images/PET-HJ/PET-HJ139-1.png",
+                "images/PET-HJ/PET-HJ139-2.png",
+                "images/PET-HJ/PET-HJ139-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-Bowl140",
+            "category": "Pet",
+            "subcategory": "Pet Bowl",
+            "name": "PET-HJ140 : Pet slow food silicone bowl",
+            "images": [
+                "images/PET-HJ/PET-HJ140-1.png",
+                "images/PET-HJ/PET-HJ140-2.png",
+                "images/PET-HJ/PET-HJ140-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-Bowl141",
+            "category": "Pet",
+            "subcategory": "Pet Bowl",
+            "name": "PET-HJ141 : Double dog silicone bowl",
+            "images": [
+                "images/PET-HJ/PET-HJ141-1.png",
+                "images/PET-HJ/PET-HJ141-2.png",
+                "images/PET-HJ/PET-HJ141-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-Bowl142",
+            "category": "Pet",
+            "subcategory": "Pet Bowl",
+            "name": "PET-HJ142 : Silicone pet bowl",
+            "images": [
+                "images/PET-HJ/PET-HJ142-1.png",
+                "images/PET-HJ/PET-HJ142-2.png",
+                "images/PET-HJ/PET-HJ142-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-Bowl143",
+            "category": "Pet",
+            "subcategory": "Pet Bowl",
+            "name": "PET-HJ143 : Pet food silicone double bowl",
+            "images": [
+                "images/PET-HJ/PET-HJ143-1.png",
+                "images/PET-HJ/PET-HJ143-2.png",
+                "images/PET-HJ/PET-HJ143-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-Bowl144",
+            "category": "Pet",
+            "subcategory": "Pet Bowl",
+            "name": "PET-HJ144 : Stainless steel dog food bowl with silicone mat",
+            "images": [
+                "images/PET-HJ/PET-HJ144-1.png",
+                "images/PET-HJ/PET-HJ144-2.png",
+                "images/PET-HJ/PET-HJ144-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-Bowl145",
+            "category": "Pet",
+            "subcategory": "Pet Bowl",
+            "name": "PET-HJ145 : Pet food feeder silicone mat with stainless steel bowls",
+            "images": [
+                "images/PET-HJ/PET-HJ145-1.png",
+                "images/PET-HJ/PET-HJ145-2.png",
+                "images/PET-HJ/PET-HJ145-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-Bowl146",
+            "category": "Pet",
+            "subcategory": "Pet Bowl",
+            "name": "PET-HJ146 : Pet slow food silicone bowl",
+            "images": [
+                "images/PET-HJ/PET-HJ146-1.png",
+                "images/PET-HJ/PET-HJ146-2.png",
+                "images/PET-HJ/PET-HJ146-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-Bowl147",
+            "category": "Pet",
+            "subcategory": "Pet Bowl",
+            "name": "PET-HJ147 : Foldable water silicone bowls",
+            "images": [
+                "images/PET-HJ/PET-HJ147-1.png",
+                "images/PET-HJ/PET-HJ147-2.png",
+                "images/PET-HJ/PET-HJ147-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "PET-Bowl148",
+            "category": "Pet",
+            "subcategory": "Pet Bowl",
+            "name": "PET-HJ148 : Dog silicone bowl BPA free foldable",
+            "images": [
+                "images/PET-HJ/PET-HJ148-1.png",
+                "images/PET-HJ/PET-HJ148-2.png",
+                "images/PET-HJ/PET-HJ148-3.png"
+            ],
+            "description_ref": "default_silicone"
+        }             
     ]
 }
