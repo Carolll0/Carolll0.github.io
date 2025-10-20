@@ -5226,6 +5226,1929 @@
                 "images/PET-HJ/PET-HJ148-3.png"
             ],
             "description_ref": "default_silicone"
-        }             
+        },
+        
+        
+
+
+
+
+        {   "id": "BB-TE001",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ001 : Baby pacifier silicone teether",
+            "images": [
+                "images/BB-HJ/BB-HJ001-1.png",
+                "images/BB-HJ/BB-HJ001-2.png",
+                "images/BB-HJ/BB-HJ001-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE002",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ002 : Little bear silicone pacifier",
+            "images": [
+                "images/BB-HJ/BB-HJ002-1.png",
+                "images/BB-HJ/BB-HJ002-2.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE003",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ003 : Silicone baby pacifier wide diameter",
+            "images": [
+                "images/BB-HJ/BB-HJ003-1.png",
+                "images/BB-HJ/BB-HJ003-2.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE004",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ004 : Wide neck silicone nipple",
+            "images": [
+                "images/BB-HJ/BB-HJ004-1.png",
+                "images/BB-HJ/BB-HJ004-2.png",
+                "images/BB-HJ/BB-HJ004-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE005",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ005 : Apple baby pacifier silicone",
+            "images": [
+                "images/BB-HJ/BB-HJ005-1.png",
+                "images/BB-HJ/BB-HJ005-2.png",
+                "images/BB-HJ/BB-HJ005-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE006",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ006 : Round head baby silicone pacifier",
+            "images": [
+                "images/BB-HJ/BB-HJ006-1.png",
+                "images/BB-HJ/BB-HJ006-2.png",
+                "images/BB-HJ/BB-HJ006-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE007",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ007 : Silicone baby pacifier",
+            "images": [
+                "images/BB-HJ/BB-HJ007-1.png",
+                "images/BB-HJ/BB-HJ007-2.png",
+                "images/BB-HJ/BB-HJ007-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE008",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ008 : Flower shaped silicone teether",
+            "images": [
+                "images/BB-HJ/BB-HJ008-1.png",
+                "images/BB-HJ/BB-HJ008-2.png",
+                "images/BB-HJ/BB-HJ008-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE009",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ009 : Silicone baby nipple pacifier",
+            "images": [
+                "images/BB-HJ/BB-HJ009-1.png",
+                "images/BB-HJ/BB-HJ009-2.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE010",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ010 : Bendable teether training silicone toothbrush",
+            "images": [
+                "images/BB-HJ/BB-HJ010-1.png",
+                "images/BB-HJ/BB-HJ010-2.png",
+                "images/BB-HJ/BB-HJ010-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE011",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ011 : Cleaning baby silicone teethbrush",
+            "images": [
+                "images/BB-HJ/BB-HJ011-1.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE012",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ012 : Banana shaped baby silicone teether",
+            "images": [
+                "images/BB-HJ/BB-HJ012-1.png",
+                "images/BB-HJ/BB-HJ012-2.png",
+                "images/BB-HJ/BB-HJ012-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE013",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ013 : Infant self silicone toothbrush",
+            "images": [
+                "images/BB-HJ/BB-HJ013-1.png",
+                "images/BB-HJ/BB-HJ013-2.png",
+                "images/BB-HJ/BB-HJ013-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE014",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ014 : Fruit shaped silicone toothbrush",
+            "images": [
+                "images/BB-HJ/BB-HJ014-1.png",
+                "images/BB-HJ/BB-HJ014-2.png",
+                "images/BB-HJ/BB-HJ014-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE015",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ015 : Flower shaped new design silicone toothebrush",
+            "images": [
+                "images/BB-HJ/BB-HJ015-1.png",
+                "images/BB-HJ/BB-HJ015-2.png",
+                "images/BB-HJ/BB-HJ015-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE016",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ016 : Cartoon pig silicone toothbrush",
+            "images": [
+                "images/BB-HJ/BB-HJ016-1.png",
+                "images/BB-HJ/BB-HJ016-2.png",
+                "images/BB-HJ/BB-HJ016-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE017",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ017 : 360 degree training silicone toothbrush",
+            "images": [
+                "images/BB-HJ/BB-HJ017-1.png",
+                "images/BB-HJ/BB-HJ017-2.png",
+                "images/BB-HJ/BB-HJ017-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE018",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ018 : Monkey shaped silicone toothbrush",
+            "images": [
+                "images/BB-HJ/BB-HJ018-1.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE019",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ019 : New design umbrella silicone toothbrush",
+            "images": [
+                "images/BB-HJ/BB-HJ019-1.png",
+                "images/BB-HJ/BB-HJ019-2.png",
+                "images/BB-HJ/BB-HJ019-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE020",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ020 : Silicone small children's toothbrush",
+            "images": [
+                "images/BB-HJ/BB-HJ020-1.png",
+                "images/BB-HJ/BB-HJ020-2.png",
+                "images/BB-HJ/BB-HJ020-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE021",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ021 : Cute dog silicone toothbrush",
+            "images": [
+                "images/BB-HJ/BB-HJ021-1.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE022",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ022 : Baby silicone teether baby molar stick",
+            "images": [
+                "images/BB-HJ/BB-HJ022-1.png",
+                "images/BB-HJ/BB-HJ022-2.png",
+                "images/BB-HJ/BB-HJ022-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE023",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ023 : Baby Finger shaped silicone toothbrush",
+            "images": [
+                "images/BB-HJ/BB-HJ023-1.png",
+                "images/BB-HJ/BB-HJ023-2.png",
+                "images/BB-HJ/BB-HJ023-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE024",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ024 : Fruit silicone feeder",
+            "images": [
+                "images/BB-HJ/BB-HJ024-1.png",
+                "images/BB-HJ/BB-HJ024-2.png",
+                "images/BB-HJ/BB-HJ024-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE025",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ025 : Dolphin feeder silicone pacifier",
+            "images": [
+                "images/BB-HJ/BB-HJ025-1.png",
+                "images/BB-HJ/BB-HJ025-2.png",
+                "images/BB-HJ/BB-HJ025-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE026",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ026 : Baby fruit feeder silicone pacifier",
+            "images": [
+                "images/BB-HJ/BB-HJ026-1.png",
+                "images/BB-HJ/BB-HJ026-2.png",
+                "images/BB-HJ/BB-HJ026-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE027",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ027 : Mesh food silicone teether",
+            "images": [
+                "images/BB-HJ/BB-HJ027-1.png",
+                "images/BB-HJ/BB-HJ027-2.png",
+                "images/BB-HJ/BB-HJ027-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE028",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ028 :Fresh food silicone feeder infant fruit ",
+            "images": [
+                "images/BB-HJ/BB-HJ028-1.png",
+                "images/BB-HJ/BB-HJ028-2.png",
+                "images/BB-HJ/BB-HJ028-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE029",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ029 : Stars moon fruit food silicone feeder",
+            "images": [
+                "images/BB-HJ/BB-HJ029-1.png",
+                "images/BB-HJ/BB-HJ029-2.png",
+                "images/BB-HJ/BB-HJ029-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE030",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ030 : Silicone pacifier for toddlers kids",
+            "images": [
+                "images/BB-HJ/BB-HJ030-1.png",
+                "images/BB-HJ/BB-HJ030-2.png",
+                "images/BB-HJ/BB-HJ030-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE031",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ031 : Angel biter silicone teether fruit",
+            "images": [
+                "images/BB-HJ/BB-HJ031-1.png",
+                "images/BB-HJ/BB-HJ031-2.png",
+                "images/BB-HJ/BB-HJ031-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE032",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ032 : Strawberry silicone fruit feeder",
+            "images": [
+                "images/BB-HJ/BB-HJ032-1.png",
+                "images/BB-HJ/BB-HJ032-2.png",
+                "images/BB-HJ/BB-HJ032-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE033",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ033 : Fruit silicone feeder nipple ",
+            "images": [
+                "images/BB-HJ/BB-HJ033-1.png",
+                "images/BB-HJ/BB-HJ033-2.png",
+                "images/BB-HJ/BB-HJ033-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE034",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ034 : Silicone biter fruit feeder",
+            "images": [
+                "images/BB-HJ/BB-HJ034-1.png",
+                "images/BB-HJ/BB-HJ034-2.png",
+                "images/BB-HJ/BB-HJ034-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE035",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ035 : Silicone Baby pacifier",
+            "images": [
+                "images/BB-HJ/BB-HJ035-1.png",
+                "images/BB-HJ/BB-HJ035-2.png",
+                "images/BB-HJ/BB-HJ035-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE036",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ036 : Feeder silicone teething",
+            "images": [
+                "images/BB-HJ/BB-HJ036-1.png",
+                "images/BB-HJ/BB-HJ036-2.png",
+                "images/BB-HJ/BB-HJ036-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE037",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ037 : Pumpkin shaped chewing silicone pacifier",
+            "images": [
+                "images/BB-HJ/BB-HJ037-1.png",
+                "images/BB-HJ/BB-HJ037-2.png",
+                "images/BB-HJ/BB-HJ037-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE038",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ038 : Teether Toy baby fruit feeder",
+            "images": [
+                "images/BB-HJ/BB-HJ038-1.png",
+                "images/BB-HJ/BB-HJ038-2.png",
+                "images/BB-HJ/BB-HJ038-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE039",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ039 : egetable feeding biter silicone bag",
+            "images": [
+                "images/BB-HJ/BB-HJ039-1.png",
+                "images/BB-HJ/BB-HJ039-2.png",
+                "images/BB-HJ/BB-HJ039-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE040",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ040 : New baby silicone teether pacifier",
+            "images": [
+                "images/BB-HJ/BB-HJ040-1.png",
+                "images/BB-HJ/BB-HJ040-2.png",
+                "images/BB-HJ/BB-HJ040-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE041",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ041 : Baby fruit feeder silicone pacifier",
+            "images": [
+                "images/BB-HJ/BB-HJ041-1.png",
+                "images/BB-HJ/BB-HJ041-2.png",
+                "images/BB-HJ/BB-HJ041-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE042",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ042 : Feeder nipples silicone feeding safe baby chick",
+            "images": [
+                "images/BB-HJ/BB-HJ042-1.png",
+                "images/BB-HJ/BB-HJ042-2.png",
+                "images/BB-HJ/BB-HJ042-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE043",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ043 : Silicone pacifier fresh food feeder",
+            "images": [
+                "images/BB-HJ/BB-HJ043-1.png",
+                "images/BB-HJ/BB-HJ043-2.png",
+                "images/BB-HJ/BB-HJ043-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE044",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ044 : Baby silicone pacifier feeder",
+            "images": [
+                "images/BB-HJ/BB-HJ044-1.png",
+                "images/BB-HJ/BB-HJ044-2.png",
+                "images/BB-HJ/BB-HJ044-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE045",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ045 : Baby feeding silicone pacifier fruit",
+            "images": [
+                "images/BB-HJ/BB-HJ045-1.png",
+                "images/BB-HJ/BB-HJ045-2.png",
+                "images/BB-HJ/BB-HJ045-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE046",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ046 : Rabbit ear silicone nipple baby",
+            "images": [
+                "images/BB-HJ/BB-HJ046-1.png",
+                "images/BB-HJ/BB-HJ046-2.png",
+                "images/BB-HJ/BB-HJ046-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE047",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ047 : Silicone Pacifier feeder with teat",
+            "images": [
+                "images/BB-HJ/BB-HJ047-1.png",
+                "images/BB-HJ/BB-HJ047-2.png",
+                "images/BB-HJ/BB-HJ047-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE048",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ048 : Fruits food silicone feeding",
+            "images": [
+                "images/BB-HJ/BB-HJ048-1.png",
+                "images/BB-HJ/BB-HJ048-2.png",
+                "images/BB-HJ/BB-HJ048-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE049",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ049 : Food Grade Silicone Feeder Toy",
+            "images": [
+                "images/BB-HJ/BB-HJ049-1.png",
+                "images/BB-HJ/BB-HJ049-2.png",
+                "images/BB-HJ/BB-HJ049-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE050",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ050 : Baby Supplies silicone Nipple Pacifier Bottle",
+            "images": [
+                "images/BB-HJ/BB-HJ050-1.png",
+                "images/BB-HJ/BB-HJ050-2.png",
+                "images/BB-HJ/BB-HJ050-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE051",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ051 : Fresh Fruit Nibbler silicone Pacifiers",
+            "images": [
+                "images/BB-HJ/BB-HJ051-1.png",
+                "images/BB-HJ/BB-HJ051-2.png",
+                "images/BB-HJ/BB-HJ051-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE052",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ052 : Deer Baby Food silicone Feeder ",
+            "images": [
+                "images/BB-HJ/BB-HJ052-1.png",
+                "images/BB-HJ/BB-HJ052-2.png",
+                "images/BB-HJ/BB-HJ052-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE053",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ053 : Bottle Baby Food Dispensing silicone Spoon",
+            "images": [
+                "images/BB-HJ/BB-HJ053-1.png",
+                "images/BB-HJ/BB-HJ053-2.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE054",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ054 : Baby Fruits silicone Pacifier",
+            "images": [
+                "images/BB-HJ/BB-HJ054-1.png",
+                "images/BB-HJ/BB-HJ054-2.png",
+                "images/BB-HJ/BB-HJ054-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE055",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ055 : High Quality New Design Infant silicone Teething Toys",
+            "images": [
+                "images/BB-HJ/BB-HJ055-1.png",
+                "images/BB-HJ/BB-HJ055-2.png",
+                "images/BB-HJ/BB-HJ055-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE056",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ056 : Baby food silicone feeder fruit",
+            "images": [
+                "images/BB-HJ/BB-HJ056-1.png",
+                "images/BB-HJ/BB-HJ056-2.png",
+                "images/BB-HJ/BB-HJ056-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE057",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ057 : Fruit silicone Feeder Pacifier For Baby Infants",
+            "images": [
+                "images/BB-HJ/BB-HJ057-1.png",
+                "images/BB-HJ/BB-HJ057-2.png",
+                "images/BB-HJ/BB-HJ057-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE058",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ058 : Baby Fruit silicone Feeder Pacifier For Infant",
+            "images": [
+                "images/BB-HJ/BB-HJ058-1.png",
+                "images/BB-HJ/BB-HJ058-2.png",
+                "images/BB-HJ/BB-HJ058-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE059",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ059 : Custom High Quality Baby silicone Feeder",
+            "images": [
+                "images/BB-HJ/BB-HJ059-1.png",
+                "images/BB-HJ/BB-HJ059-2.png",
+                "images/BB-HJ/BB-HJ059-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE060",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ060 : Baby food silicone feeder",
+            "images": [
+                "images/BB-HJ/BB-HJ060-1.png",
+                "images/BB-HJ/BB-HJ060-2.png",
+                "images/BB-HJ/BB-HJ060-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE061",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ061 : Silicone Pouches Infant Teething Toy",
+            "images": [
+                "images/BB-HJ/BB-HJ061-1.png",
+                "images/BB-HJ/BB-HJ061-2.png",
+                "images/BB-HJ/BB-HJ061-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE062",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ062 : Rabbit Baby Bracelet silicone Teether",
+            "images": [
+                "images/BB-HJ/BB-HJ062-1.png",
+                "images/BB-HJ/BB-HJ062-2.png",
+                "images/BB-HJ/BB-HJ062-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE063",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ063 : Soother Teether Star Shape Silicone",
+            "images": [
+                "images/BB-HJ/BB-HJ063-1.png",
+                "images/BB-HJ/BB-HJ063-2.png",
+                "images/BB-HJ/BB-HJ063-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE064",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ064 : Silicone Round Shape Clip",
+            "images": [
+                "images/BB-HJ/BB-HJ064-1.png",
+                "images/BB-HJ/BB-HJ064-2.png",
+                "images/BB-HJ/BB-HJ064-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE065",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ065 : Fruit-shape kids silicone teethers",
+            "images": [
+                "images/BB-HJ/BB-HJ065-1.png",
+                "images/BB-HJ/BB-HJ065-2.png",
+                "images/BB-HJ/BB-HJ065-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE066",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ066 : Silicone Teether Pony Cartoon ",
+            "images": [
+                "images/BB-HJ/BB-HJ066-1.png",
+                "images/BB-HJ/BB-HJ066-2.png",
+                "images/BB-HJ/BB-HJ066-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE067",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ067 :  Bacon Egg Design Silicone Baby Teething",
+            "images": [
+                "images/BB-HJ/BB-HJ067-1.png",
+                "images/BB-HJ/BB-HJ067-2.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE068",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ068 : Vegetable Pattern Silicone Teether ",
+            "images": [
+                "images/BB-HJ/BB-HJ068-1.png",
+                "images/BB-HJ/BB-HJ068-2.png",
+                "images/BB-HJ/BB-HJ068-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE069",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ069 : Christmas Silicone Chewing Toy",
+            "images": [
+                "images/BB-HJ/BB-HJ069-1.png",
+                "images/BB-HJ/BB-HJ069-2.png",
+                "images/BB-HJ/BB-HJ069-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE070",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ070 : Solid Color Teether Gloves",
+            "images": [
+                "images/BB-HJ/BB-HJ070-1.png",
+                "images/BB-HJ/BB-HJ070-2.png",
+                "images/BB-HJ/BB-HJ070-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE071",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ071 : Rattle Ball Fox Shaped",
+            "images": [
+                "images/BB-HJ/BB-HJ071-1.png",
+                "images/BB-HJ/BB-HJ071-2.png",
+                "images/BB-HJ/BB-HJ071-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE072",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ072 : Car Koala Shape Teething Toy",
+            "images": [
+                "images/BB-HJ/BB-HJ072-1.png",
+                "images/BB-HJ/BB-HJ072-2.png",
+                "images/BB-HJ/BB-HJ072-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE073",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ073 : Infant Palm Shape silicone Teether ",
+            "images": [
+                "images/BB-HJ/BB-HJ073-1.png",
+                "images/BB-HJ/BB-HJ073-2.png",
+                "images/BB-HJ/BB-HJ073-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE074",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ074 : Chew Toys Dolphin silicone Teether",
+            "images": [
+                "images/BB-HJ/BB-HJ074-1.png",
+                "images/BB-HJ/BB-HJ074-2.png",
+                "images/BB-HJ/BB-HJ074-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE075",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ075 : Cherry shaped silicone Teether",
+            "images": [
+                "images/BB-HJ/BB-HJ075-1.png",
+                "images/BB-HJ/BB-HJ075-2.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE076",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ076 : Toys ring Cartoon Silicone Teether ",
+            "images": [
+                "images/BB-HJ/BB-HJ076-1.png",
+                "images/BB-HJ/BB-HJ076-2.png",
+                "images/BB-HJ/BB-HJ076-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE077",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ077 : Smile Bear Silicone Baby Teether",
+            "images": [
+                "images/BB-HJ/BB-HJ077-1.png",
+                "images/BB-HJ/BB-HJ077-2.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE078",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ078 : Animal Baby silicone Toy ",
+            "images": [
+                "images/BB-HJ/BB-HJ078-1.png",
+                "images/BB-HJ/BB-HJ078-2.png",
+                "images/BB-HJ/BB-HJ078-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE079",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ079 : Giraffe silicone Teether For Baby",
+            "images": [
+                "images/BB-HJ/BB-HJ079-1.png",
+                "images/BB-HJ/BB-HJ079-2.png",
+                "images/BB-HJ/BB-HJ079-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE080",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ080 : Silicone Baby Teether For Chewing",
+            "images": [
+                "images/BB-HJ/BB-HJ080-1.png",
+                "images/BB-HJ/BB-HJ080-2.png",
+                "images/BB-HJ/BB-HJ080-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE081",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ081 : Pig Teeth Trainer Baby Teether",
+            "images": [
+                "images/BB-HJ/BB-HJ081-1.png",
+                "images/BB-HJ/BB-HJ081-2.png",
+                "images/BB-HJ/BB-HJ081-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE082",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ082 : Teething Toy Newborn Cartoon Small Mushroom",
+            "images": [
+                "images/BB-HJ/BB-HJ082-1.png",
+                "images/BB-HJ/BB-HJ082-2.png",
+                "images/BB-HJ/BB-HJ082-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE083",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ083 : Green Pepper Shape Stand Up Baby Teethers ",
+            "images": [
+                "images/BB-HJ/BB-HJ083-1.png",
+                "images/BB-HJ/BB-HJ083-2.png",
+                "images/BB-HJ/BB-HJ083-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE084",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ084 : Unique design new silicone teethers",
+            "images": [
+                "images/BB-HJ/BB-HJ084-1.png",
+                "images/BB-HJ/BB-HJ084-2.png",
+                "images/BB-HJ/BB-HJ084-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE085",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ085 : Rocket Shape Rattle Silicone Baby Soft teether",
+            "images": [
+                "images/BB-HJ/BB-HJ085-1.png",
+                "images/BB-HJ/BB-HJ085-2.png",
+                "images/BB-HJ/BB-HJ085-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE086",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ086 : Teethers silicone Teething Toys",
+            "images": [
+                "images/BB-HJ/BB-HJ086-1.png",
+                "images/BB-HJ/BB-HJ086-2.png",
+                "images/BB-HJ/BB-HJ086-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE087",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ087 : Silicone Teether For Babies",
+            "images": [
+                "images/BB-HJ/BB-HJ087-1.png",
+                "images/BB-HJ/BB-HJ087-2.png",
+                "images/BB-HJ/BB-HJ087-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE088",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ088 : Silicone baby finger molar Teether",
+            "images": [
+                "images/BB-HJ/BB-HJ088-1.png",
+                "images/BB-HJ/BB-HJ088-2.png",
+                "images/BB-HJ/BB-HJ088-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE089",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ089 : Baby silicone Teether Chew Toys",
+            "images": [
+                "images/BB-HJ/BB-HJ089-1.png",
+                "images/BB-HJ/BB-HJ089-2.png",
+                "images/BB-HJ/BB-HJ089-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE090",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ090 : Monkey Shaper Baby Silicone Teether",
+            "images": [
+                "images/BB-HJ/BB-HJ090-1.png",
+                "images/BB-HJ/BB-HJ090-2.png",
+                "images/BB-HJ/BB-HJ090-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE091",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ091 : Silicone Cartoon Teether Pendant",
+            "images": [
+                "images/BB-HJ/BB-HJ091-1.png",
+                "images/BB-HJ/BB-HJ091-2.png",
+                "images/BB-HJ/BB-HJ091-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE092",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ092 :  Giraffe Silicone Teether",
+            "images": [
+                "images/BB-HJ/BB-HJ092-1.png",
+                "images/BB-HJ/BB-HJ092-2.png",
+                "images/BB-HJ/BB-HJ092-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE093",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ093 : Silicone Reindeer Teether",
+            "images": [
+                "images/BB-HJ/BB-HJ093-1.png",
+                "images/BB-HJ/BB-HJ093-2.png",
+                "images/BB-HJ/BB-HJ093-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE094",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ094 : Mushroom toys baby accessories",
+            "images": [
+                "images/BB-HJ/BB-HJ094-1.png",
+                "images/BB-HJ/BB-HJ094-2.png",
+                "images/BB-HJ/BB-HJ094-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE095",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ095 : Safe lion silicone Teether",
+            "images": [
+                "images/BB-HJ/BB-HJ095-1.png",
+                "images/BB-HJ/BB-HJ095-2.png",
+                "images/BB-HJ/BB-HJ095-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE096",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ096 : Elephant Teething Bracelet",
+            "images": [
+                "images/BB-HJ/BB-HJ096-1.png",
+                "images/BB-HJ/BB-HJ096-2.png",
+                "images/BB-HJ/BB-HJ096-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE097",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ097 : Teethers Silicone Toys Babies",
+            "images": [
+                "images/BB-HJ/BB-HJ097-1.png",
+                "images/BB-HJ/BB-HJ097-2.png",
+                "images/BB-HJ/BB-HJ097-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE098",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ098 : Elephant shape silicone molar rod",
+            "images": [
+                "images/BB-HJ/BB-HJ098-1.png",
+                "images/BB-HJ/BB-HJ098-2.png",
+                "images/BB-HJ/BB-HJ098-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE099",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ099 : Silicone Teether Lion shape",
+            "images": [
+                "images/BB-HJ/BB-HJ099-1.png",
+                "images/BB-HJ/BB-HJ099-2.png",
+                "images/BB-HJ/BB-HJ099-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE100",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ100 : Silicone Bear baby teether",
+            "images": [
+                "images/BB-HJ/BB-HJ100-1.png",
+                "images/BB-HJ/BB-HJ100-2.png",
+                "images/BB-HJ/BB-HJ100-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE101",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ101 : Colorful Flexible Baby silicone Teether Toy",
+            "images": [
+                "images/BB-HJ/BB-HJ101-1.png",
+                "images/BB-HJ/BB-HJ101-2.png",
+                "images/BB-HJ/BB-HJ101-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE102",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ102 : Turtle Silicone Baby Teethers",
+            "images": [
+                "images/BB-HJ/BB-HJ102-1.png",
+                "images/BB-HJ/BB-HJ102-2.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE103",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ103 : Silicone Funny Teether ",
+            "images": [
+                "images/BB-HJ/BB-HJ103-1.png",
+                "images/BB-HJ/BB-HJ103-2.png",
+                "images/BB-HJ/BB-HJ103-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE104",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ104 : Baby Silicone Teething Toys Ring ",
+            "images": [
+                "images/BB-HJ/BB-HJ104-1.png",
+                "images/BB-HJ/BB-HJ104-2.png",
+                "images/BB-HJ/BB-HJ104-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE105",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ105 : Silicone Sea Urchin Sea Animal Baby Teether ",
+            "images": [
+                "images/BB-HJ/BB-HJ105-1.png",
+                "images/BB-HJ/BB-HJ105-2.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE106",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ106 : Food Grade Silicone Teether",
+            "images": [
+                "images/BB-HJ/BB-HJ106-1.png",
+                "images/BB-HJ/BB-HJ106-2.png",
+                "images/BB-HJ/BB-HJ106-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE107",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ107 : Snails Shaped Silicone Teether",
+            "images": [
+                "images/BB-HJ/BB-HJ107-1.png",
+                "images/BB-HJ/BB-HJ107-2.png",
+                "images/BB-HJ/BB-HJ107-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE108",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ108 : Baby Teething Toy For Infant",
+            "images": [
+                "images/BB-HJ/BB-HJ108-1.png",
+                "images/BB-HJ/BB-HJ108-2.png",
+                "images/BB-HJ/BB-HJ108-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE109",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ109 : Silicone Baby Organic Teething",
+            "images": [
+                "images/BB-HJ/BB-HJ109-1.png",
+                "images/BB-HJ/BB-HJ109-2.png",
+                "images/BB-HJ/BB-HJ109-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE110",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ110 : Octopus Shape Silicone Baby Teether",
+            "images": [
+                "images/BB-HJ/BB-HJ110-1.png",
+                "images/BB-HJ/BB-HJ110-2.png",
+                "images/BB-HJ/BB-HJ110-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE111",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ111 : Silicone Teether Baby",
+            "images": [
+                "images/BB-HJ/BB-HJ111-1.png",
+                "images/BB-HJ/BB-HJ111-2.png",
+                "images/BB-HJ/BB-HJ111-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE112",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ112 : Silicone Biting Teething Teether",
+            "images": [
+                "images/BB-HJ/BB-HJ112-1.png",
+                "images/BB-HJ/BB-HJ112-2.png",
+                "images/BB-HJ/BB-HJ112-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE113",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ113 : Baby Silicone Teething Toys",
+            "images": [
+                "images/BB-HJ/BB-HJ113-1.png",
+                "images/BB-HJ/BB-HJ113-2.png",
+                "images/BB-HJ/BB-HJ113-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE114",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ114 : Ice cream Shape Soft Baby Silicone Teether",
+            "images": [
+                "images/BB-HJ/BB-HJ114-1.png",
+                "images/BB-HJ/BB-HJ114-2.png",
+                "images/BB-HJ/BB-HJ114-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE115",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ115 : Watermelon silicone teether",
+            "images": [
+                "images/BB-HJ/BB-HJ115-1.png",
+                "images/BB-HJ/BB-HJ115-2.png",
+                "images/BB-HJ/BB-HJ115-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE116",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ116 : Peach silicone teething",
+            "images": [
+                "images/BB-HJ/BB-HJ116-1.png",
+                "images/BB-HJ/BB-HJ116-2.png",
+                "images/BB-HJ/BB-HJ116-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE117",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ117 : Furit Blueberry  Teether Silicone",
+            "images": [
+                "images/BB-HJ/BB-HJ117-1.png",
+                "images/BB-HJ/BB-HJ117-2.png",
+                "images/BB-HJ/BB-HJ117-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE118",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ118 : BPA Free Silicone Baby Teether",
+            "images": [
+                "images/BB-HJ/BB-HJ118-1.png",
+                "images/BB-HJ/BB-HJ118-2.png",
+                "images/BB-HJ/BB-HJ118-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE119",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ119 : Liquid Silicone Teething Toys",
+            "images": [
+                "images/BB-HJ/BB-HJ119-1.png",
+                "images/BB-HJ/BB-HJ119-2.png",
+                "images/BB-HJ/BB-HJ119-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE120",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ120 : Panda Baby Silicone Animal Teething ",
+            "images": [
+                "images/BB-HJ/BB-HJ120-1.png",
+                "images/BB-HJ/BB-HJ120-2.png",
+                "images/BB-HJ/BB-HJ120-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE121",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ121 : Full Liquid Silicone Teething ",
+            "images": [
+                "images/BB-HJ/BB-HJ121-1.png",
+                "images/BB-HJ/BB-HJ121-2.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE122",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ122 : Silicone Bendable Baby Funny teether",
+            "images": [
+                "images/BB-HJ/BB-HJ122-1.png",
+                "images/BB-HJ/BB-HJ122-2.png",
+                "images/BB-HJ/BB-HJ122-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE123",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ123 : Silicone baby teether ring toy",
+            "images": [
+                "images/BB-HJ/BB-HJ123-1.png",
+                "images/BB-HJ/BB-HJ123-2.png",
+                "images/BB-HJ/BB-HJ123-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE124",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ124 : Sun Silicone Teether Baby",
+            "images": [
+                "images/BB-HJ/BB-HJ124-1.png",
+                "images/BB-HJ/BB-HJ124-2.png",
+                "images/BB-HJ/BB-HJ124-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE125",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ125 : Silicone Teether rocket",
+            "images": [
+                "images/BB-HJ/BB-HJ125-1.png",
+                "images/BB-HJ/BB-HJ125-2.png",
+                "images/BB-HJ/BB-HJ125-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE126",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ126 : Teether training silicone ",
+            "images": [
+                "images/BB-HJ/BB-HJ126-1.png",
+                "images/BB-HJ/BB-HJ126-2.png",
+                "images/BB-HJ/BB-HJ126-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE127",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ127 : Panda Shape Infant Teething Toys",
+            "images": [
+                "images/BB-HJ/BB-HJ127-1.png",
+                "images/BB-HJ/BB-HJ127-2.png",
+                "images/BB-HJ/BB-HJ127-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE128",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ128 : Lotus root silicone teether Toy",
+            "images": [
+                "images/BB-HJ/BB-HJ128-1.png",
+                "images/BB-HJ/BB-HJ128-2.png",
+                "images/BB-HJ/BB-HJ128-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE129",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ129 : Stereoscopic teether toy",
+            "images": [
+                "images/BB-HJ/BB-HJ129-1.png",
+                "images/BB-HJ/BB-HJ129-2.png",
+                "images/BB-HJ/BB-HJ129-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE130",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ130 : Fruit Teething Toy Silicone",
+            "images": [
+                "images/BB-HJ/BB-HJ130-1.png",
+                "images/BB-HJ/BB-HJ130-2.png",
+                "images/BB-HJ/BB-HJ130-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE131",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ131 : Silicone bracelet baby ",
+            "images": [
+                "images/BB-HJ/BB-HJ131-1.png",
+                "images/BB-HJ/BB-HJ131-2.png",
+                "images/BB-HJ/BB-HJ131-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE132",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ132 : Mitten Baby silicone Teether",
+            "images": [
+                "images/BB-HJ/BB-HJ132-1.png",
+                "images/BB-HJ/BB-HJ132-2.png",
+                "images/BB-HJ/BB-HJ132-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE133",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ133 : Fruit shaped silicone teether",
+            "images": [
+                "images/BB-HJ/BB-HJ133-1.png",
+                "images/BB-HJ/BB-HJ133-2.png",
+                "images/BB-HJ/BB-HJ133-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE134",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ134 : Silicone lamb teether",
+            "images": [
+                "images/BB-HJ/BB-HJ134-1.png",
+                "images/BB-HJ/BB-HJ134-2.png",
+                "images/BB-HJ/BB-HJ134-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE135",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ135 : Silicone cow teether",
+            "images": [
+                "images/BB-HJ/BB-HJ135-1.png",
+                "images/BB-HJ/BB-HJ135-2.png",
+                "images/BB-HJ/BB-HJ135-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE136",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ136 : Fruit Baby Silicone Teether ",
+            "images": [
+                "images/BB-HJ/BB-HJ136-1.png",
+                "images/BB-HJ/BB-HJ136-2.png",
+                "images/BB-HJ/BB-HJ136-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE137",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ137 : Carrot baby silicone teether ",
+            "images": [
+                "images/BB-HJ/BB-HJ137-1.png",
+                "images/BB-HJ/BB-HJ137-2.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE138",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ138 : Baby Mushroom silicone Teether",
+            "images": [
+                "images/BB-HJ/BB-HJ138-1.png",
+                "images/BB-HJ/BB-HJ138-2.png",
+                "images/BB-HJ/BB-HJ138-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE139",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ139 : Silicone Baby Teether",
+            "images": [
+                "images/BB-HJ/BB-HJ139-1.png",
+                "images/BB-HJ/BB-HJ139-2.png",
+                "images/BB-HJ/BB-HJ139-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE140",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ140 : Silicone Frog Shape Baby Teether",
+            "images": [
+                "images/BB-HJ/BB-HJ140-1.png",
+                "images/BB-HJ/BB-HJ140-2.png",
+                "images/BB-HJ/BB-HJ140-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE141",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ141 : Cat shaped silicone teether",
+            "images": [
+                "images/BB-HJ/BB-HJ141-1.png",
+                "images/BB-HJ/BB-HJ141-2.png",
+                "images/BB-HJ/BB-HJ141-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE142",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ142 : Cute Cat Shape Silicone Baby Teether",
+            "images": [
+                "images/BB-HJ/BB-HJ142-1.png",
+                "images/BB-HJ/BB-HJ142-2.png",
+                "images/BB-HJ/BB-HJ142-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE143",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ143 : Lovely Fish Silicone Baby Teether ",
+            "images": [
+                "images/BB-HJ/BB-HJ143-1.png",
+                "images/BB-HJ/BB-HJ143-2.png",
+                "images/BB-HJ/BB-HJ143-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE144",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ144 : Chicken Shaped silicone Teething Toy ",
+            "images": [
+                "images/BB-HJ/BB-HJ144-1.png",
+                "images/BB-HJ/BB-HJ144-2.png",
+                "images/BB-HJ/BB-HJ144-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE145",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ145 : Animals Baby Silicone Teether",
+            "images": [
+                "images/BB-HJ/BB-HJ145-1.png",
+                "images/BB-HJ/BB-HJ145-2.png",
+                "images/BB-HJ/BB-HJ145-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE146",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ146 : Cat Shape Silicone Baby Teethers",
+            "images": [
+                "images/BB-HJ/BB-HJ146-1.png",
+                "images/BB-HJ/BB-HJ146-2.png",
+                "images/BB-HJ/BB-HJ146-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE147",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ147 : Mittens silicone Teether ",
+            "images": [
+                "images/BB-HJ/BB-HJ147-1.png",
+                "images/BB-HJ/BB-HJ147-2.png",
+                "images/BB-HJ/BB-HJ147-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE148",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ148 : Baby silicone Teether Mitten",
+            "images": [
+                "images/BB-HJ/BB-HJ148-1.png",
+                "images/BB-HJ/BB-HJ148-2.png",
+                "images/BB-HJ/BB-HJ148-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE149",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ149 :Finger sleeve baby  ",
+            "images": [
+                "images/BB-HJ/BB-HJ149-1.png",
+                "images/BB-HJ/BB-HJ149-2.png",
+                "images/BB-HJ/BB-HJ149-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE150",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ150 : Silicone Unicorn Teether",
+            "images": [
+                "images/BB-HJ/BB-HJ150-1.png",
+                "images/BB-HJ/BB-HJ150-2.png",
+                "images/BB-HJ/BB-HJ150-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE151",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ151 : Silicone toy octopus toy",
+            "images": [
+                "images/BB-HJ/BB-HJ151-1.png",
+                "images/BB-HJ/BB-HJ151-2.png",
+                "images/BB-HJ/BB-HJ151-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE152",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ152 : Butterfly silicone teether",
+            "images": [
+                "images/BB-HJ/BB-HJ152-1.png",
+                "images/BB-HJ/BB-HJ152-2.png",
+                "images/BB-HJ/BB-HJ152-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE153",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ153 : Puzzle baby silicone teethers",
+            "images": [
+                "images/BB-HJ/BB-HJ153-1.png",
+                "images/BB-HJ/BB-HJ153-2.png",
+                "images/BB-HJ/BB-HJ153-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE154",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ154 : Hamburg Silicone Teether",
+            "images": [
+                "images/BB-HJ/BB-HJ154-1.png",
+                "images/BB-HJ/BB-HJ154-2.png",
+                "images/BB-HJ/BB-HJ154-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE155",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ155 : Robot shaped silicone Teether",
+            "images": [
+                "images/BB-HJ/BB-HJ155-1.png",
+                "images/BB-HJ/BB-HJ155-2.png",
+                "images/BB-HJ/BB-HJ155-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE156",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ156 :  Elephant Shape Baby Chew silicone Teether",
+            "images": [
+                "images/BB-HJ/BB-HJ156-1.png",
+                "images/BB-HJ/BB-HJ156-2.png",
+                "images/BB-HJ/BB-HJ156-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE157",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ157 : Silicone Elephant Baby Teethers",
+            "images": [
+                "images/BB-HJ/BB-HJ157-1.png",
+                "images/BB-HJ/BB-HJ157-2.png",
+                "images/BB-HJ/BB-HJ157-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE158",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ158 : Christmas Silicone Babies Teether",
+            "images": [
+                "images/BB-HJ/BB-HJ158-1.png",
+                "images/BB-HJ/BB-HJ158-2.png",
+                "images/BB-HJ/BB-HJ158-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE159",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ159 : Silicone Dinosaur Chew",
+            "images": [
+                "images/BB-HJ/BB-HJ159-1.png",
+                "images/BB-HJ/BB-HJ159-2.png",
+                "images/BB-HJ/BB-HJ159-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE160",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ160 : Baby Training Toothbrush",
+            "images": [
+                "images/BB-HJ/BB-HJ160-1.png",
+                "images/BB-HJ/BB-HJ160-2.png",
+                "images/BB-HJ/BB-HJ160-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE161",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ161 : Silicone Teether Ball",
+            "images": [
+                "images/BB-HJ/BB-HJ161-1.png",
+                "images/BB-HJ/BB-HJ161-2.png",
+                "images/BB-HJ/BB-HJ161-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE162",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ162 : Teething Mitten Baby Glove With Clip",
+            "images": [
+                "images/BB-HJ/BB-HJ162-1.png",
+                "images/BB-HJ/BB-HJ162-2.png",
+                "images/BB-HJ/BB-HJ162-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE163",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ163 : Mitten Silicone Baby Teether",
+            "images": [
+                "images/BB-HJ/BB-HJ163-1.png",
+                "images/BB-HJ/BB-HJ163-2.png",
+                "images/BB-HJ/BB-HJ163-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE164",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ164 : Baby training teether ",
+            "images": [
+                "images/BB-HJ/BB-HJ164-1.png",
+                "images/BB-HJ/BB-HJ164-2.png",
+                "images/BB-HJ/BB-HJ164-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE165",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ165 : Silicone Teething Natural Squirrel",
+            "images": [
+                "images/BB-HJ/BB-HJ165-1.png",
+                "images/BB-HJ/BB-HJ165-2.png",
+                "images/BB-HJ/BB-HJ165-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE166",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ166 : French Fries Silicone Baby Teether",
+            "images": [
+                "images/BB-HJ/BB-HJ166-1.png",
+                "images/BB-HJ/BB-HJ166-2.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE167",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ167 : Potato Chips Baby Teether",
+            "images": [
+                "images/BB-HJ/BB-HJ167-1.png",
+                "images/BB-HJ/BB-HJ167-2.png",
+                "images/BB-HJ/BB-HJ167-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE168",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ168 : Customized Teething Toys",
+            "images": [
+                "images/BB-HJ/BB-HJ168-1.png",
+                "images/BB-HJ/BB-HJ168-2.png",
+                "images/BB-HJ/BB-HJ168-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE169",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ169 : Silicone Teether Bracelet Ring",
+            "images": [
+                "images/BB-HJ/BB-HJ169-1.png",
+                "images/BB-HJ/BB-HJ169-2.png",
+                "images/BB-HJ/BB-HJ169-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE170",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ170 : Toy Baby Teethers Silicone Teether",
+            "images": [
+                "images/BB-HJ/BB-HJ170-1.png",
+                "images/BB-HJ/BB-HJ170-2.png",
+                "images/BB-HJ/BB-HJ170-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE171",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ171 : Baby Teething silicone Teether Toy",
+            "images": [
+                "images/BB-HJ/BB-HJ171-1.png",
+                "images/BB-HJ/BB-HJ171-2.png",
+                "images/BB-HJ/BB-HJ171-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE172",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ172 : Silicone Training Toothbrush ",
+            "images": [
+                "images/BB-HJ/BB-HJ172-1.png",
+                "images/BB-HJ/BB-HJ172-2.png",
+                "images/BB-HJ/BB-HJ172-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE173",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ173 : Baby Turtle silicone toothbrush",
+            "images": [
+                "images/BB-HJ/BB-HJ173-1.png",
+                "images/BB-HJ/BB-HJ173-2.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE174",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ174 : Silicone Baby Chewable",
+            "images": [
+                "images/BB-HJ/BB-HJ174-1.png",
+                "images/BB-HJ/BB-HJ174-2.png",
+                "images/BB-HJ/BB-HJ174-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE175",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ175 : Giraffe Teether Silicone Baby",
+            "images": [
+                "images/BB-HJ/BB-HJ175-1.png",
+                "images/BB-HJ/BB-HJ175-2.png",
+                "images/BB-HJ/BB-HJ175-3.png"
+            ],
+            "description_ref": "default_silicone"
+        },
+        {   "id": "BB-TE176",
+            "category": "Baby",
+            "subcategory": "Baby Teether",
+            "name": "BB-HJ176 : Silicone Links Multi Use Baby Toy ",
+            "images": [
+                "images/BB-HJ/BB-HJ176-1.png",
+                "images/BB-HJ/BB-HJ176-2.png",
+                "images/BB-HJ/BB-HJ176-3.png"
+            ],
+            "description_ref": "default_silicone"
+        }
     ]
 }
