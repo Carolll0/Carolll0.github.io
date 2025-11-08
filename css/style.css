@@ -1717,6 +1717,19 @@ figure {
   transition: 0.3s;
 }
 
+.pagination11 button,
+.pagination11 span.dots {
+  display: inline-block;
+  margin: 0 4px;
+  padding: 6px 12px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  background: #fff;
+  color: #333;
+  cursor: pointer;
+  font-size: 14px;
+}
+
 .pagination11 button:hover {
   background: #0073e68a;
   color: #fff;
@@ -1732,6 +1745,11 @@ figure {
   background: #f1f1f1;
   color: rgb(138, 138, 138);
   cursor: not-allowed;
+}
+
+.pagination11 .dots {
+  color: #888;
+  cursor: default;
 }
 /*===============================😀😀以上首页product页面，不再进行改动============================*/
 

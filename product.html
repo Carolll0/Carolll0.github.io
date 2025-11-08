@@ -227,31 +227,80 @@
 				renderPagination(totalPages);
 			}
 
-			// 渲染分页
-			function renderPagination(totalPages) {
-				paginationDiv.innerHTML = "";
-				if (totalPages <= 1) return;
+// 渲染分页（支持 ... 折叠显示）
+function renderPagination(totalPages) {
+	paginationDiv.innerHTML = "";
+	if (totalPages <= 1) return;
 
-				let prevBtn = document.createElement("button");
-				prevBtn.textContent = "« Prev";
-				prevBtn.disabled = currentPage === 1;
-				prevBtn.onclick = () => renderProducts(currentPage - 1);
-				paginationDiv.appendChild(prevBtn);
+	const maxVisiblePages = 7; // 一次最多显示几个页码按钮（可改为10）
+	const paginationFrag = document.createDocumentFragment();
 
-				for (let i = 1; i <= totalPages; i++) {
-					let btn = document.createElement("button");
-					btn.textContent = i;
-					btn.className = i === currentPage ? "active" : "";
-					btn.onclick = () => renderProducts(i);
-					paginationDiv.appendChild(btn);
-				}
+	console.log("✅ 正在渲染分页，页数 =", totalPages, "当前页 =", currentPage);
 
-				let nextBtn = document.createElement("button");
-				nextBtn.textContent = "Next »";
-				nextBtn.disabled = currentPage === totalPages;
-				nextBtn.onclick = () => renderProducts(currentPage + 1);
-				paginationDiv.appendChild(nextBtn);
-			}
+	// « Prev 按钮
+	let prevBtn = document.createElement("button");
+	prevBtn.textContent = "« Prev";
+	prevBtn.disabled = currentPage === 1;
+	prevBtn.onclick = () => renderProducts(currentPage - 1);
+	paginationFrag.appendChild(prevBtn);
+
+	// 计算页码范围
+	let startPage = Math.max(1, currentPage - Math.floor(maxVisiblePages / 2));
+	let endPage = startPage + maxVisiblePages - 1;
+	if (endPage > totalPages) {
+		endPage = totalPages;
+		startPage = Math.max(1, endPage - maxVisiblePages + 1);
+	}
+
+	// 如果不是从第一页开始，显示第一页 + ...
+	if (startPage > 1) {
+		let firstBtn = document.createElement("button");
+		firstBtn.textContent = "1";
+		firstBtn.onclick = () => renderProducts(1);
+		paginationFrag.appendChild(firstBtn);
+
+		if (startPage > 2) {
+			let dots = document.createElement("span");
+			dots.textContent = "...";
+			dots.className = "dots";
+			paginationFrag.appendChild(dots);
+		}
+	}
+
+	// ✅ 修正后的循环，只生成当前可见范围内的页码
+	for (let i = startPage; i <= endPage; i++) {
+		let btn = document.createElement("button");
+		btn.textContent = i;
+		btn.className = i === currentPage ? "active" : "";
+		btn.onclick = () => renderProducts(i);
+		paginationFrag.appendChild(btn);
+	}
+
+	// 如果不是到最后一页，显示 ... + 最后一页
+	if (endPage < totalPages) {
+		if (endPage < totalPages - 1) {
+			let dots = document.createElement("span");
+			dots.textContent = "...";
+			dots.className = "dots";
+			paginationFrag.appendChild(dots);
+		}
+
+		let lastBtn = document.createElement("button");
+		lastBtn.textContent = totalPages;
+		lastBtn.onclick = () => renderProducts(totalPages);
+		paginationFrag.appendChild(lastBtn);
+	}
+
+	// Next » 按钮
+	let nextBtn = document.createElement("button");
+	nextBtn.textContent = "Next »";
+	nextBtn.disabled = currentPage === totalPages;
+	nextBtn.onclick = () => renderProducts(currentPage + 1);
+	paginationFrag.appendChild(nextBtn);
+
+	// 添加所有分页元素
+	paginationDiv.appendChild(paginationFrag);
+}
 
 			// 从 JSON 加载数据
 			fetch("data/products.json")
