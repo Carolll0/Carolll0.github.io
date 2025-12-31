@@ -67,22 +67,14 @@
 								<li><a href="product.html?category=lifestyle">Lifestyle Category</a></li>
 							</ul>
                         </li>
-                        <li class="has-dropdown">
-                            <a href="services.html">Services <b class="arrow">&#9662;</b></a>
-                            <ul class="dropdown">
-                                <li><a href="custom-design.html">Custom Design</a></li>
-                                <li><a href="wholesale.html">Wholesale</a></li>
-                                <li><a href="packaging-solutions.html">Packaging Solutions</a></li>
-                            </ul>
-                        </li>
                         <li class="has-dropdown active">
-                            <a href="news.html">News <b class="arrow">&#9662;</b></a>
-                            <ul class="dropdown">
-                                <li><a href="recent-news.html">Recent News</a></li>
-                                <li><a href="blog.html">Blog</a></li>
-                                <li><a href="FAQ.html">FQA</a></li>
-                            </ul>
-                        </li>
+							<a href="news.html">News <b class="arrow">&#9662;</b></a>
+							<ul class="dropdown">
+								<li><a href="news.html#recent-news">Recent News</a></li>
+								<li><a href="news.html#blog">Blog</a></li>
+								<li><a href="news.html#faq">FQA</a></li>
+							</ul>
+						</li>
                         <li><a href="contact.html">Contact</a></li>
                     </ul>
                 </nav>
@@ -125,22 +117,14 @@
 						<li><a href="product.html?category=lifestyle">Lifestyle Category</a></li>
 					</ul>
                 </li>
-                <li class="has-dropdown">
-                    <a href="services.html">Services <b class="arrow">&#9662;</b></a>
-                    <ul class="dropdown">
-                        <li><a href="custom-design.html">Custom Design</a></li>
-                        <li><a href="wholesale.html">Wholesale</a></li>
-                        <li><a href="packaging-solutions.html">Packaging Solutions</a></li>
-                    </ul>
-                </li>
                 <li class="has-dropdown active">
-                    <a href="news.html">News <b class="arrow">&#9662;</b></a>
-                    <ul class="dropdown">
-                        <li><a href="recent-news.html">Recent News</a></li>
-                        <li><a href="blog.html">Blog</a></li>
-                        <li><a href="FAQ.html">FQA</a></li>
-                    </ul>
-                </li>
+					<a href="news.html">News <b class="arrow">&#9662;</b></a>
+					<ul class="dropdown">
+						<li><a href="news.html#recent-news">Recent News</a></li>
+						<li><a href="news.html#blog">Blog</a></li>
+						<li><a href="news.html#faq">FQA</a></li>
+					</ul>
+				</li>
                 <li><a href="contact.html">Contact</a></li>
             </ul>
         </header>
@@ -520,28 +504,27 @@
                         nextLink.forEach(a => a.style.display = "none");
                     }
                 } else {
-                    document.querySelector(".blog-detail").innerHTML = "<p>文章未找到</p>";
+                    document.querySelector(".blog-detail").innerHTML = "<p>Article not found.</p>";
                 }
             </script>
         </main>
 
         <footer id="fh5co-footer" role="contentinfo"> <!--😀页脚部分 已改完这部分-->
-            <div class="container">
-                <div class="row footer-sections">
-                    <!-- About -->
-                    <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3 footer-column">
-                        <h4 class="footer-title"><a href="about.html">ABOUT</a></h4>
-                        <ul class="footer-links">
-                            <li><a href="about.html#company-history">Company History</a></li>
-                            <li><a href="about.html#mission-vission">Mission & Vision</a></li>
-                            <li><a href="about.html#our-team">Our Team</a></li>
-                            <li><a href="about.html#our-facilities">Our Facilities</a></li>
-                            <li><a href="about.html#certifications">Certifications</a></li>
-                        </ul>
-                    </div>
-                    <!-- Product -->
-                    <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3 footer-column">
-                        <h4 class="footer-title"><a href="product.html">PRODUCTS</a></h4>
+			<div class="container">
+				<div class="row footer-sections">
+					<!-- About -->
+					<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3 footer-column">
+						<h4 class="footer-title"><a href="about.html">ABOUT</a></h4>
+						<ul class="footer-links">
+							<li><a href="about.html#fh5co-about">Company History</a></li>
+							<li><a href="about.html#fh5co-about">Mission & Vision</a></li>
+							<li><a href="about.html#fh5co-departments">Our Team</a></li>
+							<li><a href="about.html#fh5co-about-bottom">Our Service</a></li>
+						</ul>
+					</div>
+					<!-- Product -->
+					<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3 footer-column">
+						<h4 class="footer-title"><a href="product.html">PRODUCTS</a></h4>
 						<ul class="footer-links">
 							<li><a href="product.html?category=Kitchen">Kitchen Category</a></li>
 							<li><a href="product.html?category=Ice Mold">Ice Tray Category</a></li>
@@ -550,46 +533,46 @@
 							<li><a href="product.html?category=Pet">Pet Category</a></li>
 							<li><a href="product.html?category=lifestyle">Lifestyle Category</a></li>
 						</ul>
-                    </div>
-                    <!-- News -->
-                    <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3 footer-column">
-                        <h4 class="footer-title"><a href="news.html">NEWS</a></h4>
-                        <ul class="footer-links">
-                            <li><a href="news.html#recent-news">Recent News</a></li>
-                            <li><a href="news.html#blog">Blog</a></li>
-                            <li><a href="news.html#faq">FAQ</a></li>
-                        </ul>
-                    </div>
-                    <!-- Contact -->
-                    <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3 footer-column">
-                        <h4 class="footer-title"><a href="contact.html">CONTACT</a></h4>
-                        <ul class="footer-links contact-info">
-                            <li><i class="fas fa-map-marker-alt"></i> Address: <span>No.63, Jiangcheng Road, Jianggao
-                                    Town, Baiyun District, Guangzhou</span></li>
-                            <li><i class="fas fa-envelope"></i> E-mail: <a
-                                    href="mailto:info@homija.com">info@homija.com</a>
-                            </li>
-                            <li><i class="fas fa-phone"></i> Tel: <span>0086-13286840631</span></li>
-                            <li><i class="fab fa-whatsapp"></i> WhatsApp: <a href="https://wa.me/8613640645831"
-                                    target="_blank">+86 13640645831</a></li>
-                        </ul>
-                    </div>
-                </div>
-                <!-- Copyright -->
-                <div class="row copyright">
-                    <div class="col-md-12 text-center">
-                        <p><small>&copy;2016 Guangzhou Homija Silicone Plastic Products Co., Ltd. All rights reserved.
-                                Powered by CY</small></p>
-                        <ul class="fh5co-social-icons">
-                            <li><a href="#"><i class="icon-facebook"></i></a></li>
-                            <li><a href="#"><i class="icon-linkedin"></i></a></li>
-                            <li><a href="#"><i class="icon-twitter"></i></a></li>
-                            <li><a href="#"><i class="icon-youtube"></i></a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </footer>
+					</div>
+					<!-- News -->
+					<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3 footer-column">
+						<h4 class="footer-title"><a href="news.html">NEWS</a></h4>
+						<ul class="footer-links">
+							<li><a href="news.html#recent-news">Recent News</a></li>
+							<li><a href="news.html#blog">Blog</a></li>
+							<li><a href="news.html#faq">FAQ</a></li>
+						</ul>
+					</div>
+					<!-- Contact -->
+					<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3 footer-column">
+						<h4 class="footer-title"><a href="contact.html">CONTACT</a></h4>
+						<ul class="footer-links contact-info">
+							<li><i class="fas fa-map-marker-alt"></i> Address: <span>No.63, Jiangcheng Road, Jianggao
+									Town, Baiyun District, Guangzhou</span></li>
+							<li><i class="fas fa-envelope"></i> E-mail: <a
+									href="mailto:info@homija.com">info@homija.com</a></li>
+							<li><i class="fas fa-phone"></i> Tel: <span>0086-13286840631</span></li>
+							<li><i class="fab fa-whatsapp"></i> WhatsApp: <a href="https://wa.me/8613640645831"
+									target="_blank">+86 13640645831</a></li>
+						</ul>
+					</div>
+				</div>
+				<!-- Copyright -->
+				<div class="row copyright">
+					<div class="col-md-12 text-center">
+						<p><small>&copy;2016 Guangzhou Homija Silicone Plastic Products Co., Ltd. All rights reserved.
+								Powered by CY</small></p>
+						<ul class="fh5co-social-icons">
+							<li><a href="https://www.facebook.com/profile.php?id=61579196882501" target="_blank"><i
+										class="icon-facebook"></i></a></li>
+							<li><a href="#"><i class="icon-linkedin"></i></a></li>
+							<li><a href="#"><i class="icon-twitter"></i></a></li>
+							<li><a href="#"><i class="icon-youtube"></i></a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</footer>
 
         <div class="gototop js-top">
             <a href="#" class="js-gotop"><i class="icon-arrow-up"></i></a>

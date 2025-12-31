@@ -67,20 +67,12 @@
 								<li><a href="product.html?category=lifestyle">Lifestyle Category</a></li>
 							</ul>
 						</li>
-						<li class="has-dropdown">
-							<a href="services.html">Services <b class="arrow">&#9662;</b></a>
-							<ul class="dropdown">
-								<li><a href="custom-design.html">Custom Design</a></li>
-								<li><a href="wholesale.html">Wholesale</a></li>
-								<li><a href="packaging-solutions.html">Packaging Solutions</a></li>
-							</ul>
-						</li>
 						<li class="has-dropdown active">
 							<a href="news.html">News <b class="arrow">&#9662;</b></a>
 							<ul class="dropdown">
-								<li><a href="recent-news.html">Recent News</a></li>
-								<li><a href="blog.html">Blog</a></li>
-								<li><a href="FAQ.html">FQA</a></li>
+								<li><a href="news.html#recent-news">Recent News</a></li>
+								<li><a href="news.html#blog">Blog</a></li>
+								<li><a href="news.html#faq">FQA</a></li>
 							</ul>
 						</li>
 						<li><a href="contact.html">Contact</a></li>
@@ -136,9 +128,9 @@
 				<li class="has-dropdown active">
 					<a href="news.html">News <b class="arrow">&#9662;</b></a>
 					<ul class="dropdown">
-						<li><a href="recent-news.html">Recent News</a></li>
-						<li><a href="blog.html">Blog</a></li>
-						<li><a href="FAQ.html">FQA</a></li>
+						<li><a href="news.html#recent-news">Recent News</a></li>
+						<li><a href="news.html#blog">Blog</a></li>
+						<li><a href="news.html#faq">FQA</a></li>
 					</ul>
 				</li>
 				<li><a href="contact.html">Contact</a></li>
@@ -146,24 +138,364 @@
 		</header>
 
 		<!-- 文章内容 -->
-		<main class="news-detail-container">
-			<!-- 返回按钮 -->
-			<a id="back-btn" class="back-btn">← Back to News</a>
+		<main>
+			<article class="news-detail-container" style="max-width: 1090px; margin: 0 auto; padding: 20px;">
+				<!-- 返回按钮 -->
+				<div class="article-header-nav">
+            	    <div class="article-nav top-nav">
+            	        <a id="backButton" href="#" class="return-btn">Back</a>
+            	        <div class="nav-links">
+            	            <a href="#" class="prev-article">Prev Post</a>
+            	            <a href="#" class="next-article">Next Post</a>
+            	        </div>
+            	    </div>
+            	</div>
+				<h1 class="post-title" style="margin: 15px 40px; font-size:32px; color:#005dbb; font-weight:bold;"></h1>
+            	<time class="post-date" style="margin: 8px 40px; font-size:15px; font-weight:bold;"></time>
+            	<div class="post-content" style="margin-top: 20px; line-height: 1.8;"></div>
 
-			<!-- 文章标题 -->
-			<h1 id="news-title">新产品发布：高温耐用硅胶刮刀</h1>
+				<!-- 文章底部导航 -->
+            	<div class="article-nav bottom-nav">
+            	    <div class="nav-links">
+            	        <a href="#" class="prev-article">Prev Post</a>
+            	        <a href="#" class="next-article" style="margin-left: 20px;">Next Post</a>
+            	    </div>
+            	</div>
+			</article>
 
-			<!-- 文章图片，可选 -->
-			<img id="news-image" src="images/product-1.jpg" alt="News Image">
-
-			<!-- 文章内容 -->
-			<p id="news-content">
-				我们的最新硅胶刮刀系列在欧美市场正式上市，具有耐高温、食品级安全、时尚外观的优势，广受客户关注。产品经过严格测试，确保在烘焙和厨房使用中安全可靠。
-			</p>
-			<p>
-				此系列产品设计人性化，易清洗，并可满足多种烹饪需求。欢迎全球客户咨询和订购。
-			</p>
-		</main>
+            <script>
+                // 文章数据 <img src="images/packaging-blog.png" alt="包装" style="width:650px; height:auto;" />
+                const newsData = {
+                    1: {title: "Successfully Entered the Southeast Asian Market",
+                        date: "Jan 18, 2018",
+                        content: `<ul>
+                            <p>In January 2018, the company completed its first exports of silicone kitchen and baking products to Malaysia and Thailand. The shipment included silicone spatulas, ice cube trays, and various kitchen accessories. After receiving the goods, local customers provided positive feedback, particularly on the products' heat resistance and color consistency. Following this initial cooperation, one customer confirmed a regional distribution partnership, marking Southeast Asia as a long-term focus market for the company.</p>
+							</ul>`},
+                    2: {title: "Monthly Production Capacity Exceeded 200,000 Pieces",
+                        date: "Feb 22, 2018",
+                        content: `<ul>
+                            <p>Driven by gradual equipment upgrades, improved worker skills, and ongoing production process optimization, the factory's monthly output exceeded 200,000 pieces for the first time. This milestone marked the company's transition from an early production stage to a more stable and efficient manufacturing phase, enabling it to better support bulk orders from Southeast Asian customers.</p>
+                            </ul>` },
+                    3: {title: "Participated in the Hong Kong Houseware Fair",
+                        date: "Apr 12, 2018",
+                        content: `<ul>
+                            <p>Our company participated in the Hong Kong Houseware Fair, showcasing silicone kitchenware, ice trays, and daily-use silicone storage products. During the exhibition, the team engaged in in-depth discussions with buyers from Europe, the United States, Japan, and the Middle East, and received multiple requests for samples and quotations. The event laid a solid foundation for further overseas market development.</p>
+                            </ul>`},
+                    4: {title: "Improved Surface Texture of Silicone Kitchen Tools for Better Grip",
+                        date: "May 11, 2018",
+                        content: `<ul>
+                            <p>Based on long-term user feedback, the company optimized the surface texture of several classic silicone kitchen tools, including spatulas, whisk handles, and silicone tongs. The updated texture design improved grip performance, even when exposed to oil or moisture. Internal testing showed that the slip rate was reduced by nearly 35% compared with previous versions.</p>
+                            </ul>`},
+                    5: {title: "First Digital Warehouse Inventory System Launched",
+                        date: "Jul 20, 2018",
+                        content: `<ul>
+                            <p>To reduce manual recording errors and improve inventory accuracy, the company launched its first digital warehouse management system in July 2018. The system supports real-time inventory tracking, batch management, and automatic stock-check reminders. Compared with the previous manual approach, inventory accuracy improved significantly, and shipping operations became more stable and efficient.</p>
+                            </ul>`},
+                    6: {title: "Added Solid Silicone Molding Machine to Enhance Production Efficiency",
+                        date: "Oct 14, 2018",
+                        content: `<ul>
+                            <p>In October 2018, the factory installed an additional solid silicone molding machine to support increasing order volumes. The new equipment improved curing cycle stability and enhanced dimensional consistency across production batches. Overall production efficiency increased by approximately 15%, providing more reliable capacity support during peak seasons in the fourth quarter.</p>
+                            </ul>`},
+                    7: {title: "First OEM Project Completed with a Korean Customer",
+                        date: "Dec 23, 2018",
+                        content: `<ul>
+                            <p>The company completed its first OEM cooperation project with a Korean kitchenware brand, producing silicone baking molds and baking tool sets. The project required higher standards in color tolerance control, logo application, and heat resistance performance. After successful delivery, the customer expressed strong interest in continued cooperation, marking the company's entry into the mid- to high-end OEM market in East Asia.</p>
+                            </ul>`},
+                    8: {title: "Strong Growth in Multi-Color Silicone Kitchen Sets",
+                        date: "Jan 02, 2019",
+                        content: `<ul>
+                            <p>Following an optimization of color combinations, the company introduced several updated silicone kitchen tool sets featuring market-driven color schemes, including muted tones and warm color palettes. After the update, sales performance across cross-border platforms and overseas channels improved significantly, with overall volume increasing by approximately 20% month over month. The multi-color kitchen set line became one of the fastest-growing product categories of the year.</p>
+                            </ul>`},
+                    9: {title: "Launched First Silicone Baby Feeding Bowl Set",
+                        date: "Feb 22, 2019",
+                        content: `<ul>
+                            <p>In February 2019, the company officially introduced its first silicone baby feeding bowl set, including a suction bowl, silicone spoon, and spill-resistant lid. Made from food-grade silicone, the products passed multiple EU and U.S. food-contact safety tests. After initial shipments to Europe and North America, the set received positive feedback for its soft touch, stable suction performance, and easy cleaning. This launch marked the company's entry into the baby silicone product segment and laid the foundation for future product development in this category.</p>
+                            </ul>`},
+                    10: {title: "Mold Maintenance Program Fully Implemented",
+                        date: "Mar 12, 2019",
+                        content: `<ul>
+                            <p>To improve mold lifespan and dimensional consistency, the company launched a structured mold maintenance program in 2019. The program includes mold ID management, scheduled cleaning, process parameter recording, and wear monitoring. After implementation, mold-related issues decreased significantly, and rework caused by dimensional deviations was reduced, contributing to improved overall production efficiency.</p>
+                            </ul>`},
+                    11: {title: "Added Raw Material Inspection Process to Improve Quality Stability",
+                        date: "Apr 18, 2019",
+                        content: `<ul>
+                            <p>To strengthen quality control at the source, the company introduced an additional raw material inspection process in 2019. Each batch of silicone material is now checked for appearance, purity, odor, and transparency. This process effectively reduced quality variations caused by raw material differences and improved the consistency of color, flexibility, and surface feel across finished products, enhancing overall traceability within the production process.</p>
+                            </ul>`},
+                    12: {title: "Strong Growth in Southeast Asia Market",
+                        date: "Jun 14, 2019",
+                        content: `<ul>
+                            <p>Driven by competitive product positioning and stable quality, sales performance in Southeast Asia continued to grow, particularly among customers in Malaysia and Thailand. The region primarily sourced basic product lines such as ice cube trays, silicone spatulas, and cake molds. In the second quarter of 2019, order volume showed notable year-over-year growth, making Southeast Asia one of the company's fastest-growing regional markets.</p>
+                            </ul>`},
+                    13: {title: "First Participation in Hong Kong Gifts & Premium Fair",
+                        date: "Jul 02, 2019",
+                        content: `<ul>
+                            <p>The company made its first appearance at the Hong Kong Gifts & Premium Fair, showcasing new ice tray designs, silicone kitchen sets, and multi-color baking tools. During the exhibition, the team engaged with buyers from Europe, the Middle East, and Southeast Asia, receiving multiple sample requests and cooperation inquiries. The event significantly increased the company's international visibility and supported customer growth in the following year.</p>
+                            </ul>`},
+                    14: {title: "Packaging Workshop Expanded to Improve Shipping Efficiency",
+                        date: "Sep 02, 2019",
+                        content: `<ul>
+                            <p>As export orders continued to grow, the company expanded its packaging workshop and added two independent packing stations. The updated layout improved packing efficiency by approximately 25% and reduced congestion during peak seasons. The expansion also increased flexibility in handling multi-SKU and small-batch customized orders.</p>
+                            </ul>`},
+                    15: {title: "Completed Large-Scale Customized Order for European Client",
+                        date: "Dec 25, 2019",
+                        content: `<ul>
+                            <p>The company successfully completed a customized development project for a German kitchenware brand, covering three silicone baking mold products. From design communication and mold development to mass production and delivery, the entire process was completed within 40 days. The customer gave high recognition during its annual supplier review and awarded the company a “Best Cooperation Partner” honor, further strengthening the company's position in the European market.</p>
+                            </ul>`},
+                    16: {title: "Launched Upgraded Silicone Spatula and Baking Knife Series",
+                        date: "Jan 13, 2020",
+                        content: `<ul>
+                            <p>At the beginning of 2020, the company introduced an upgraded line of silicone spatulas and baking knives. The new series uses a higher heat-resistant, food-grade silicone formulation, combined with reinforced structural design to improve durability and firmness during use.</br>During the sampling stage, the products received positive feedback from customers in Europe and North America. Several partner brands proactively requested custom colors and logo applications. In the launch month, the spatula series ranked among the top five new product categories by inquiry volume for the quarter.</p>
+                            </ul>`},
+                    17: {title: "Maintained Stable Production During the Pandemic",
+                        date: "Feb 24, 2020",
+                        content: `<ul>
+                            <p>In February 2020, while prioritizing employee safety, the company resumed limited production through staggered shifts and closed-loop management measures. By optimizing internal workflows and implementing team-based operations, the factory maintained basic production capacity during a challenging period and supported urgent replenishment needs for long-term partners.</br>The management experience gained during this time strengthened the company's ability to respond more effectively to unexpected situations in the future.</p>
+                            </ul>`},
+                    18: {title: "Introduced Online Product Showcases via Live Streaming",
+                        date: "Apr 14, 2020",
+                        content: `<ul>
+                            <p>As offline exhibitions were suspended, the company adopted live-streaming presentations in April to introduce new kitchenware and baby product lines to customers from Europe, Southeast Asia, and the Middle East.</br>The sessions combined real-time factory walkthroughs with product demonstrations, allowing customers to gain a more direct understanding of production and functionality. Several customers submitted sampling requests immediately after the sessions, making live streaming an important customer development channel during the pandemic.</p>
+                            </ul>`},
+                    19: {title: "Annual Export Volume to Western Europe Reached a Record High",
+                        date: "Jun 22, 2020",
+                        content: `<ul>
+                            <p>Despite market uncertainty caused by the pandemic, overall order volume from Western European customers continued to grow. Annual exports to Western Europe increased by approximately 15% compared with the previous year, reaching a historical high.</br>Growth was mainly driven by silicone kitchen tool sets and baking tools. Customers noted that the company's consistent communication and reliable delivery during the pandemic were particularly valuable, and several expressed interest in expanding cooperation in 2021.</p>
+                            </ul>`},
+                    20: {title: "Internal Factory Reorganization Completed",
+                        date: "Jun 28, 2020",
+                        content: `<ul>
+                            <p>In June, the company completed a comprehensive reorganization of its production areas, including material flow optimization, reallocation of semi-finished product zones, and adjustments to packaging workflows.</br>Following the changes, material handling efficiency improved by approximately 18%, and overall shop-floor safety was further enhanced. This reorganization provided solid operational support for peak-season order fulfillment later in the year.</p>
+                            </ul>`},
+                    21: {title: "Expanded International Trade Team with Dedicated After-Sales Support",
+                        date: "Sep 03, 2020",
+                        content: `<ul>
+                            <p>As the global customer base continued to grow, the company added a dedicated after-sales specialist in September to improve service quality. The role focuses on handling logistics exceptions, collecting usage feedback, and supporting communication on customized projects.</br>As a result, average response and resolution time for customer issues was reduced by approximately 30%, encouraging brand partners to share more direct market feedback and supporting faster product improvement cycles.</p>
+                            </ul>`},
+                    22: {title: "Ensured Stable Supply to North American Market During the Pandemic",
+                        date: "Oct 12, 2020",
+                        content: `<ul>
+                            <p>During a period of significant disruption to global supply chains and frequent delays on China–U.S. shipping routes, the company successfully completed two batches of regular and replenishment orders for North American customers in October.</br>By securing key raw materials in advance, adjusting production schedules, and maintaining daily communication with logistics partners, the company ensured that customers' year-end stocking plans were not affected. In quarterly evaluations, customers gave high recognition to the company's supply stability.</p>
+                            </ul>`},
+					23: {title: "Continued Stable Growth in Cooperation with Korean Brand",
+                        date: "Oct 28, 2020",
+                        content: `<ul>
+                            <p>Throughout 2020, the company maintained stable supply to its Korean partner, primarily covering mid- to high-end silicone kitchenware, ice molds, and baking tools.</br>In the annual review, the partner noted steady sales performance on local online platforms and highlighted the appeal of the company's soft-tone color schemes among younger consumers. This feedback led both parties to begin discussions on expanded OEM and ODM cooperation for 2021.</p>
+                            </ul>`},	
+					24: {title: "Introduced Fully Automated Mold Cleaning System",
+                        date: "Mar 26, 2021",
+                        content: `<ul>
+                            <p>In March 2021, the company introduced a fully automated mold cleaning system to replace traditional manual cleaning processes. The system features high-temperature steam cleaning, automatic silicone residue separation, and solvent circulation treatment, significantly reducing human-related cleaning inconsistencies. After implementation, mold turnover efficiency increased by more than 30%, mold lifespan was extended, and production scheduling became more stable. The system also reduced the risk of dimensional deviations caused by insufficient or uneven mold cleaning.</p>
+                            </ul>`},
+					25: {title: "Launched New Portable Silicone Collapsible Bowl for Outdoor Use",
+                        date: "May 12, 2021",
+                        content: `<ul>
+                            <p>In May, the company launched a new silicone collapsible bowl designed for camping, travel, and outdoor dining. The product features a lightweight structure and a quick-fold design, making it easy to carry and store. The launch quickly attracted inquiries from customers in Europe and North America and became one of the fastest-growing SKUs in the outdoor product category for the year. Several brands expressed interest in custom color options, and cooperation discussions continued to expand.</p>
+                            </ul>`},
+					26: {title: "RP System Officially Implemented Across Operations",
+                        date: "Jul 14, 2021",
+                        content: `<ul>
+                            <p>To further strengthen digital management, the company fully implemented an ERP system in July 2021. The system covers key modules including inventory management, production planning, order execution, purchasing, and finance, enabling end-to-end visibility from raw material intake to finished goods shipment. Following implementation, inventory accuracy improved significantly, internal approval processes became faster, and order execution progress became more transparent for customers. The ERP system provides strong operational support for handling larger order volumes with consistent performance.</p>
+                            </ul>`},
+                    27: {title: "Product Labeling System Upgraded for Multi-Market Compliance",
+                        date: "Sep 07, 2021",
+                        content: `<ul>
+                            <p>As the number of export destinations increased, the company upgraded its product labeling system in September. The new system supports eco-labels, batch traceability codes, and multi-language requirements, helping meet the import regulations of more countries. After rollout, the updated labels reduced documentation adjustments during customs clearance, improved export efficiency, and enhanced product presentation in retail environments.</p>
+                            </ul>`},
+					28: {title: "Expanded International Sales Team to Develop South American Market",
+                        date: "Sep 21, 2021",
+                        content: `<ul>
+                            <p>To accelerate global market expansion, the company added two Spanish-speaking international sales representatives in September, focusing on customer development in South America. Shortly after team formation, the company received initial inquiries from Chile and Peru, covering silicone kitchenware and ice mold products. This expansion marked the company's formal entry into the South American market and laid the groundwork for more localized service and deeper regional cooperation in the future.</p>
+                            </ul>`},
+					29: {title: "Newly Developed Silicone Outdoor Water Bottle Launched",
+                        date: "Nov 23, 2021",
+                        content: `<ul>
+                            <p>In response to the growing outdoor products market, the company introduced a collapsible silicone outdoor water bottle in November. The product underwent multiple folding fatigue tests, demonstrating strong durability, and is designed to withstand both hot and cold temperature variations. Shortly after launch, the product attracted cooperation inquiries from several outdoor brands in North America and Europe, becoming a key addition to the company's expanding outdoor product portfolio.</p>
+                            </ul>`},
+					30: {title: "Added 300-Ton Solid Silicone Compression Machine",
+                        date: "Dec 06, 2021",
+                        content: `<ul>
+                            <p>At the end of the year, the factory added a 300-ton solid silicone compression molding machine to enhance capacity for large-size and high-density silicone products. After commissioning, daily output increased noticeably, effectively easing production pressure during peak seasons and providing sufficient capacity reserves for new product launches planned in 2022.</p>
+                            </ul>`},
+					31: {title: "Welcomed New Customer from Portugal",
+                        date: "Feb 12, 2022",
+                        content: `<ul>
+                            <p>In February 2022, the company successfully completed its first shipment of silicone baking molds to Portugal, expanding its European customer base to an additional country. The local customer provided positive feedback on product quality and color combinations and expressed interest in long-term cooperation, creating new growth opportunities for further regional market development.</p>
+                            </ul>`},
+					32: {title: "Factory Fire Safety System Upgraded",
+                        date: "Mar 16, 2022",
+                        content: `<ul>
+                            <p>To strengthen factory safety management, the company completed a fire safety system upgrade in March. Improvements included the installation of additional smoke detectors, inspection and optimization of fire access routes, and the organization of regular fire safety drills. These measures enhanced on-site safety and emergency response capabilities and aligned operations with stricter industrial safety standards.</p>
+                            </ul>`},
+					33: {title: "Participated in Shenzhen International Home Products Expo",
+                        date: "May 07, 2022",
+                        content: `<ul>
+                            <p>The company participated in the Shenzhen International Home Products Expo, presenting its three core product categories: silicone kitchenware, baby feeding products, and outdoor silicone items. During the exhibition, the team met with professional buyers from 15 countries and established initial cooperation intentions with several brand clients. The exhibition highlighted the company's product range diversity and strengthened its visibility within the home products industry.</p>
+                            </ul>`},
+					34: {title: "Updated Product Color System to Match Market Trends",
+                        date: "Jun 04, 2022",
+                        content: `<ul>
+                            <p>Based on current market trends, the company updated its color system in June, introducing new popular tones such as avocado green, stone gray, and sand brown. Adjustments were also made to the brightness and saturation of selected core products to better align with modern home aesthetics. The updated color palette was well received by customers across multiple markets, leading to increased demand for color customization.</p>
+                            </ul>`},
+					35: {title: "Completed Large-Scale Customized Order for French Client",
+                        date: "Sep 22, 2022",
+                        content: `<ul>
+                            <p>The company successfully completed a large-scale customized order for a French brand, covering nine product categories and multiple color combinations of silicone kitchenware sets. All products used FSC-certified paper packaging to meet European environmental requirements. From design communication to final inspection, the project followed a tightly managed schedule and received strong recognition from the customer.</p>
+                            </ul>`},
+					36: {title: "Shipping Scanning System Implemented in Logistics Department",
+                        date: "Nov 11, 2022",
+                        content: `<ul>
+                            <p>To improve shipment accuracy and efficiency, the company implemented a scanning system within the logistics department. By cross-checking carton barcodes with packing lists, the risk of shipping errors was significantly reduced. After implementation, overall shipping efficiency improved by approximately 20%, further enhancing the delivery experience for overseas customers.</p>
+                            </ul>`},	
+					37: {title: "Annual Production Capacity Increased by 13%",
+                        date: "Jan 16, 2023",
+                        content: `<ul>
+                            <p>Supported by equipment upgrades and internal workforce optimization, the company achieved a 13% increase in overall production capacity in 2023. Production scheduling became more flexible, and efficiency at key manufacturing processes improved significantly. As a result, several core product lines maintained stable supply during peak seasons, further strengthening delivery reliability for long-term partners.</p>
+                            </ul>`},
+					38: {title: "Launched Multi-Color Silicone Baby Bib Series",
+                        date: "Feb 22, 2023",
+                        content: `<ul>
+                            <p>In February, the company introduced a new silicone baby bib series available in eight color options. Made from food-grade silicone and compliant with multiple international testing standards, including EU and North American requirements, the new series offers improved softness and durability. Shortly after launch, the products attracted strong interest from several baby care brands, reinforcing the company's expansion in the baby product category.</p>
+                            </ul>`},
+					39: {title: "Exhibited at Canton Fair and Introduced 12 New Products",
+                        date: "Apr 08, 2023",
+                        content: `<ul>
+                            <p>The company participated in the 133rd Canton Fair, showcasing 12 new products across its kitchenware, baby, and outdoor collections. During the event, the team engaged with professional buyers from more than 20 countries and held in-depth discussions with potential partners. Several new products received sample orders on-site, providing a solid starting point for market introduction and increasing the company's visibility among international buyers.</p>
+                            </ul>`},
+					40: {title: "Completed Large-Volume Baby Product Shipment to the U.S.",
+                        date: "Jun 04, 2023",
+                        content: `<ul>
+                            <p>In June, the company successfully delivered a large-volume order of baby products to a U.S. customer, including silicone bibs, suction bowls, and food containers. All items underwent strict packaging and drop tests to meet local retail standards. The customer provided positive feedback and expressed interest in placing repeat orders in the following quarter.</p>
+                            </ul>`},
+					41: {title: "Warehouse Shelving System Upgraded",
+                        date: "Jul 15, 2023",
+                        content: `<ul>
+                            <p>To further improve inventory management efficiency, the company completed an upgrade of its warehouse shelving system. The new racks offer higher load capacity and improved stability, enabling clearer product zoning and more efficient picking routes. The upgrade contributed to smoother warehouse operations and faster outbound processing.</p>
+                            </ul>`},
+					42: {title: "Three New Outdoor Product Sets Launched",
+                        date: "Oct 16, 2023",
+                        content: `<ul>
+                            <p>Three new outdoor product sets were added to the company's outdoor collection, including a foldable storage box set, silicone cup sets, and silicone dining plate sets. Designed with impact-resistant and temperature-resistant materials, the products are well suited for camping, hiking, and other outdoor activities. Several customers provided positive feedback during the sampling stage and quickly moved into bulk order discussions.</p>
+                            </ul>`},
+					43: {title: "Completed Holiday Gift Set Project for UK Client",
+                        date: "Nov 22, 2023",
+                        content: `<ul>
+                            <p>The company successfully completed a customized holiday gift set project for a UK client, featuring six silicone baking tools. The outer packaging followed a clean, British-style festive design suitable for Christmas and year-end promotions. The project progressed efficiently after artwork confirmation, was delivered on schedule, and passed local quality inspections, earning positive recognition from the customer as part of their annual supplier evaluation.</p>
+                            </ul>`},
+					44: {title: "Three New Baby Product Molds Entered Mass Production",
+                        date: "Jan 23, 2024",
+                        content: `<ul>
+                            <p>In response to increasing customer demand for baby food containers, teethers, and silicone feeding bowls, the company completed the development of three new dedicated molds and officially launched mass production at the beginning of the year. The new molds demonstrate strong structural stability and improved demolding efficiency, providing reliable manufacturing support for upcoming baby product orders and enhancing overall production consistency.</p>
+                            </ul>`},
+					45: {title: "First Export Order to Qatar",
+                        date: "Mar 14, 2024",
+                        content: `<ul>
+                            <p>Through online exhibitions and direct communication channels, the company successfully completed its first export order of silicone kitchenware to a customer in Qatar. This milestone expanded the company's customer footprint in the Middle East and provided valuable hands-on experience in serving clients from the region, laying a practical foundation for future market development.</p>
+                            </ul>`},
+					46: {title: "Launched New Silicone Pet Product Series",
+                        date: "Apr 08, 2024",
+                        content: `<ul>
+                            <p>In April, the company introduced a new range of silicone pet products, including pet bowls and anti-slip mat molds. The products continue to follow food-grade silicone standards in both material selection and structural design, ensuring safety, durability, and ease of cleaning. The launch marks the company's official entry into the pet product segment, with initial trial orders already received from selected customers.</p>
+                            </ul>`},
+					47: {title: "Export Packaging Optimization Project Upgraded",
+                        date: "Jun 04, 2024",
+                        content: `<ul>
+                            <p>To reduce the risk of damage during long-distance transportation, the company upgraded its export carton materials and internal packaging structures. Following the improvements, product stability during shipment increased significantly, and the overall damage rate was reduced to 0.8%, helping minimize post-delivery issues and improve customer satisfaction.</p>
+                            </ul>`},
+					48: {title: "Internal Skill Training for Production Teams",
+                        date: "Jun 23, 2024",
+                        content: `<ul>
+                            <p>The company organized targeted skill enhancement training for both the mold and quality control teams, covering dimensional inspection methods, color difference evaluation standards, and demolding parameter management. After the training, operational consistency across related processes improved, strengthening personnel-level support for maintaining stable and reliable product quality.</p>
+                            </ul>`},
+					49: {title: "Long-Term Partnership Established with U.S. Baby Brand",
+                        date: "Aug 12, 2024",
+                        content: `<ul>
+                            <p>In August, the company officially established a long-term partnership with a U.S.-based baby product brand. The collaboration includes both ODM and OEM services for multiple silicone baby products, covering product development, mold manufacturing, and mass production. This partnership represents a key recognition of the company's service capabilities in the North American baby product market.</p>
+                            </ul>`},
+					50: {title: "Customized Silicone Kitchenware Project with European Brand",
+                        date: "Oct 14, 2024",
+                        content: `<ul>
+                            <p>The company reached a customization agreement with a European kitchenware brand to mass-produce silicone kitchen tool sets featuring the client's logo. During the cooperation, the company completed color matching, mold adjustments, and packaging detail confirmations according to client requirements. The products have now entered stable mass production.</p>
+                            </ul>`},
+					51: {title: "Exhibited at Ambiente Frankfurt Trade Fair",
+                        date: "Oct 24, 2024",
+                        content: `<ul>
+                            <p>The company participated in the Ambiente trade fair in Frankfurt, Germany, presenting a wide range of new silicone products across kitchen, baby, and outdoor categories. During the exhibition, the team engaged in in-depth discussions with customers from Northern and Eastern Europe, generating positive follow-up opportunities and creating new momentum for European market expansion.</p>
+                            </ul>`},
+					52: {title: "Added Production Planning Specialist",
+                        date: "Dec 24, 2024",
+                        content: `<ul>
+                            <p>To further improve delivery stability, the company added a dedicated production planning specialist in December. The role focuses on coordinating schedules for both samples and mass production orders. This adjustment clarified production planning logic and effectively reduced conflicts caused by order insertions or schedule changes.</p>
+                            </ul>`},
+					53: {title: "Production Line Energy Efficiency Improved",
+                        date: "Jan 05, 2025",
+                        content: `<ul>
+                            <p>To enhance production efficiency while reducing energy consumption, the factory carried out fine adjustments and optimization to the temperature control system in the curing area. After the adjustment, overall production line energy efficiency increased by approximately 8% without affecting product quality, contributing to more stable and sustainable daily operations.</p>
+                            </ul>`},
+					54: {title: "New Silicone Baking Mat Production Line Added",
+                        date: "Mar 22, 2025",
+                        content: `<ul>
+                            <p>With continued growth in baking-related orders, the company added a dedicated production line for silicone baking mats in March. After the new line became operational, daily output of related products increased to approximately 1.6 times the previous capacity, effectively easing delivery pressure during peak order periods.</p>
+                            </ul>`},
+					55: {title: "Long-Term Cooperation Established with Japanese Baby Brand",
+                        date: "Apr 12, 2025",
+                        content: `<ul>
+                            <p>In April, the company reached a long-term cooperation agreement with a Japanese baby product brand. The collaboration includes customized color schemes and independent packaging designs to meet the local market's high standards for detail and compliance. Relevant products have completed initial confirmations and are gradually entering mass production preparation.</p>
+                            </ul>`},
+					56: {title: "Successfully Entered Three Latin American Markets",
+                        date: "Jun 15, 2025",
+                        content: `<ul>
+                            <p>During the second quarter, the company established cooperation with customers from Chile, Peru, and Colombia, successfully expanding into three Latin American markets. Silicone baby products were the main purchasing category. The smooth execution of these orders further diversified the company's overseas market presence.</p>
+                            </ul>`},
+					57: {title: "Completed 40HQ Export Order for Australian Customer",
+                        date: "Jul 01, 2025",
+                        content: `<ul>
+                            <p>In July, the company successfully completed a large 40HQ export order for an Australian customer. The shipment included 12 silicone product combinations covering kitchenware and baking categories. From production scheduling to shipment, the project was completed as planned, and the customer expressed clear intentions for follow-up orders after inspection.</p>
+                            </ul>`},
+					58: {title: "Internal Low-Energy Equipment Upgrades Implemented",
+                        date: "Jul 14, 2025",
+                        content: `<ul>
+                            <p>To further improve energy efficiency, the company carried out low-energy upgrades on selected production equipment in July. More energy-efficient heating components were adopted, and operating parameters were optimized. Following the upgrades, equipment temperature stability improved while overall energy consumption during daily production was reduced.</p>
+                            </ul>`},
+					59: {title: "First Large-Scale Order Successfully Delivered to Middle East Customer",
+                        date: "Oct 16, 2025",
+                        content: `<ul>
+                            <p>In October, the company successfully delivered its first large-scale order to a Middle East customer. The order covered multiple categories, including silicone kitchen tools, ice molds, and collapsible cups, with packaging solutions adjusted to meet local retail requirements. This cooperation laid a solid foundation for further expansion in the Middle East market.</p>
+                            </ul>`},
+					60: {title: "Quality Inspection Process Upgraded",
+                        date: "Nov 22, 2025",
+                        content: `<ul>
+                            <p>In November, the company upgraded its quality inspection procedures. The quality control department added new measurement and tensile testing equipment and further refined pre-shipment inspection standards. Following the upgrade, inspections of product appearance and structural stability became more comprehensive, helping ensure consistent quality across outgoing shipments.</p>
+                            </ul>`}
+                };
+                // 文章顺序数组
+                const newsOrder = Object.keys(newsData).map(Number).sort((a, b) => a - b);
+                const params = new URLSearchParams(window.location.search);
+                const id = parseInt(params.get("id"));
+                // 填充文章内容
+                if (newsData[id]) {
+                    document.querySelector(".post-title").textContent = newsData[id].title;
+                    document.querySelector(".post-date").textContent = newsData[id].date;
+                    document.querySelector(".post-content").innerHTML = newsData[id].content;
+                    const index = newsOrder.indexOf(id);
+                    // 上一篇
+                    const prevLink = document.querySelectorAll(".prev-article");
+                    if (index > 0) {
+                        prevLink.forEach(a => a.href = "news-detail.html?id=" + newsOrder[index - 1]);
+                    } else {
+                        prevLink.forEach(a => a.style.display = "none");
+                    }
+                    // 下一篇
+                    const nextLink = document.querySelectorAll(".next-article");
+                    if (index < newsOrder.length - 1) {
+                        nextLink.forEach(a => a.href = "news-detail.html?id=" + newsOrder[index + 1]);
+                    } else {
+                        nextLink.forEach(a => a.style.display = "none");
+                    }
+                } else {
+                    document.querySelector(".news-detail-container").innerHTML = "<p>Article not found.</p>";
+                }
+            </script>
+        </main>
 
 		<footer id="fh5co-footer" role="contentinfo"> <!--😀页脚部分 已改完这部分-->
 			<div class="container">
@@ -172,11 +504,10 @@
 					<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3 footer-column">
 						<h4 class="footer-title"><a href="about.html">ABOUT</a></h4>
 						<ul class="footer-links">
-							<li><a href="about.html#company-history">Company History</a></li>
-							<li><a href="about.html#mission-vission">Mission & Vision</a></li>
-							<li><a href="about.html#our-team">Our Team</a></li>
-							<li><a href="about.html#our-facilities">Our Facilities</a></li>
-							<li><a href="about.html#certifications">Certifications</a></li>
+							<li><a href="about.html#fh5co-about">Company History</a></li>
+							<li><a href="about.html#fh5co-about">Mission & Vision</a></li>
+							<li><a href="about.html#fh5co-departments">Our Team</a></li>
+							<li><a href="about.html#fh5co-about-bottom">Our Service</a></li>
 						</ul>
 					</div>
 					<!-- Product -->
@@ -220,7 +551,8 @@
 						<p><small>&copy;2016 Guangzhou Homija Silicone Plastic Products Co., Ltd. All rights reserved.
 								Powered by CY</small></p>
 						<ul class="fh5co-social-icons">
-							<li><a href="#"><i class="icon-facebook"></i></a></li>
+							<li><a href="https://www.facebook.com/profile.php?id=61579196882501" target="_blank"><i
+										class="icon-facebook"></i></a></li>
 							<li><a href="#"><i class="icon-linkedin"></i></a></li>
 							<li><a href="#"><i class="icon-twitter"></i></a></li>
 							<li><a href="#"><i class="icon-youtube"></i></a></li>
@@ -263,7 +595,7 @@
 			const page = parseInt(params.get("page")) || 1;
 
 			// 如果你的 news.html 和 news-detail.html 在同一文件夹：直接用下面这行
-			document.getElementById("back-btn").href = `news.html?page=${page}`;
+			document.getElementById("backButton").href = `news.html?recent-news-page=${page}`;
 
 			// 如果不在同一目录，比如 detail 在 /pages/news/，而列表在 /news.html：
 			// document.getElementById("back-btn").href = `../news.html?page=${page}`;
